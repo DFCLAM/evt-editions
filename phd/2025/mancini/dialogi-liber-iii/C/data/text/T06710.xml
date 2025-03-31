@@ -1,0 +1,159 @@
+
+<!DOCTYPE document [
+<!ENTITY aacute "&#x00E1;" >
+<!ENTITY Aacute "&#x00C1;" >
+<!ENTITY acirc "&#x00E2;" >
+<!ENTITY Acirc "&#x00C2;" >
+<!ENTITY agrave "&#x00E0;" >
+<!ENTITY Agrave "&#x00C0;" >
+<!ENTITY aring "&#x00E5;" >
+<!ENTITY Aring "&#x00C5;" >
+<!ENTITY atilde "&#x00E3;" >
+<!ENTITY Atilde "&#x00C3;" >
+<!ENTITY auml "&#x00E4;" >
+<!ENTITY Auml "&#x00C4;" >
+<!ENTITY aelig "&#x00E6;" >
+<!ENTITY AElig "&#x00C6;" >
+<!ENTITY ccedil "&#x00E7;" >
+<!ENTITY Ccedil "&#x00C7;" >
+<!ENTITY eth "&#x00F0;" >
+<!ENTITY ETH "&#x00D0;" >
+<!ENTITY eacute "&#x00E9;" >
+<!ENTITY Eacute "&#x00C9;" >
+<!ENTITY ecirc "&#x00EA;" >
+<!ENTITY Ecirc "&#x00CA;" >
+<!ENTITY egrave "&#x00E8;" >
+<!ENTITY Egrave "&#x00C8;" >
+<!ENTITY euml "&#x00EB;" >
+<!ENTITY Euml "&#x00CB;" >
+<!ENTITY iacute "&#x00ED;" >
+<!ENTITY Iacute "&#x00CD;" >
+<!ENTITY icirc "&#x00EE;" >
+<!ENTITY Icirc "&#x00CE;" >
+<!ENTITY igrave "&#x00EC;" >
+<!ENTITY Igrave "&#x00CC;" >
+<!ENTITY iuml "&#x00EF;" >
+<!ENTITY Iuml "&#x00CF;" >
+<!ENTITY ntilde "&#x00F1;" >
+<!ENTITY Ntilde "&#x00D1;" >
+<!ENTITY oacute "&#x00F3;" >
+<!ENTITY Oacute "&#x00D3;" >
+<!ENTITY ocirc "&#x00F4;" >
+<!ENTITY Ocirc "&#x00D4;" >
+<!ENTITY ograve "&#x00F2;" >
+<!ENTITY Ograve "&#x00D2;" >
+<!ENTITY oslash "&#x00F8;" >
+<!ENTITY Oslash "&#x00D8;" >
+<!ENTITY otilde "&#x00F5;" >
+<!ENTITY Otilde "&#x00D5;" >
+<!ENTITY ouml "&#x00F6;" >
+<!ENTITY Ouml "&#x00D6;" >
+<!ENTITY szlig "&#x00DF;" >
+<!ENTITY thorn "&#x00FE;" >
+<!ENTITY THORN "&#x00DE;" >
+<!ENTITY uacute "&#x00FA;" >
+<!ENTITY Uacute "&#x00DA;" >
+<!ENTITY ucirc "&#x00FB;" >
+<!ENTITY Ucirc "&#x00DB;" >
+<!ENTITY ugrave "&#x00F9;" >
+<!ENTITY Ugrave "&#x00D9;" >
+<!ENTITY uuml "&#x00FC;" >
+<!ENTITY Uuml "&#x00DC;" >
+<!ENTITY yacute "&#x00FD;" >
+<!ENTITY Yacute "&#x00DD;" >
+<!ENTITY yuml "&#x00FF;" >
+<!ENTITY nbsp "&#160;" >
+]>
+<TEI xml:id="T06710">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="st">GDPref 1 (C)</title>
+<title type="ss">GDPref 1 (C)</title>
+<respStmt><name>DOE</name><resp>staff</resp></respStmt>
+</titleStmt>
+<editionStmt>
+<edition n="4"><date>November 2009</date></edition>
+</editionStmt>
+<extent>~14.3 KB, 42 citations</extent>
+<publicationStmt>
+<publisher>Dictionary of Old English</publisher>
+<address>
+<addrLine>130 St. George St. Rm. 14285</addrLine>
+<addrLine>University of Toronto</addrLine>
+<addrLine>Toronto, Ontario</addrLine>
+<addrLine>M5S 3H1</addrLine>
+<addrLine>CANADA</addrLine>
+</address>
+<idno>B9.5.1</idno>
+<availability>
+<p>We ask that you not copy and/or (re)distribute the corpus without the written consent of the Dictionary of Old English. The individual scholar must take responsibility for clearing copyright with the editors and publishers of the editions used in his/her own citations of the material.</p>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<bibl>Gregory the Great, Dialogues, Preface to Book 1 (Cambridge, Corpus Christi College, MS. 322):<author rend="Hecht, H.">Hecht</author><date>1900-7</date>1-9<edition><title>Bischof Waerferths von Worcester Uebersetzung der Dialoge Gregors des Grossen</title>, Bib. ags. Prosa 5 (Leipzig and Hamburg) [repr. Darmstadt 1965]</edition>.</bibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<refsDecl><p>Cited by page and line no. following ed.</p></refsDecl>
+</encodingDesc>
+<profileDesc>
+<textClass><catRef target="P"/></textClass>
+</profileDesc>
+<revisionDesc>
+<change when="January 2000">
+<list> 
+<item>Updated the bibliographic information from the Healey-Venezky "List of Texts".</item>
+</list>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<p>
+<s xml:id="T06710000100" n="1.1">Ic &AElig;LFRED geofendum Criste mid cynehades m&aelig;rnysse geweor&eth;od, habbe gearolice ongyten &amp; &thorn;urh haligra boca ges&aelig;gene oft gehyred, &thorn;&aelig;tte us, &thorn;am &thorn;e God swa micle heanesse worldge&thorn;ing&eth;a forgifen hafa&eth;, is seo m&aelig;ste &eth;earf, &thorn;&aelig;t we hwilon ure mod betwix &thorn;as eor&thorn;lican ymbhigdo geleo&eth;igen &amp; gebigen to &eth;am godcundan &amp; &thorn;am gastlican rihte.</s>
+<s xml:id="T06710000200" n="1.12">&amp; for&thorn;an ic sohte &amp; wilnade to minum getreowum freondum, &thorn;&aelig;t hi me of Godes bocum be haligra manna &thorn;eawum &amp; wundrum awriten &thorn;as &aelig;fterfylgendan lare, &thorn;&aelig;t ic &thorn;urh &thorn;a mynegunge &amp; lufe gescyrped on minum mode betwih &thorn;as eor&eth;lican gedrefednesse hwilum gehicge &thorn;a heofonlican.</s>
+<s xml:id="T06710000300" n="2.22">For&thorn;on nu &aelig;t &aelig;restan we magon gehyran, hu se eadega &amp; se apostolica papa sanctus Gregorius spr&aelig;c to his deacone, &thorn;am w&aelig;s nama Petrus, be haligra monna larum &amp; &thorn;eawum &amp; life to lare &amp; to bysne eallum &thorn;am, &thorn;e Godes willan wyrcea&eth; &amp; lufia&eth;.</s>
+<s xml:id="T06710000400" n="2.29">&amp; for&eth;on se eadega sanctus Gregorius &aelig;rest w&aelig;s sprecende be him selfum &thorn;isum wordum &amp; &thorn;us cw&aelig;&eth;: sume d&aelig;ge hit gelamp, &thorn;&aelig;t ic w&aelig;s swi&eth;e geswenced mid &thorn;am geruxlum &amp; une&eth;nessum sumra woruldlicra ymbhogena, &aelig;r &thorn;am underfenge &thorn;ises bisceoplican folgodes.</s>
+<s xml:id="T06710000500" n="3.7">In &thorn;am worldscyrum we beo&eth; ful oft genyded, &thorn;&aelig;t we do&eth; &thorn;a &thorn;ing, &eth;e us genoh gewiss is, &thorn;&aelig;t we ne sceolon.</s>
+<s xml:id="T06710000600" n="3.10">&THORN;a me gelyste &thorn;&aelig;re deoglan stowe, &thorn;e ic &aelig;r on w&aelig;s in mynstre.</s>
+<s xml:id="T06710000700" n="3.12">Seo is &thorn;&aelig;re <corr>gnornunge</corr> freond, for&thorn;on mon symle m&aelig;g his sares &amp; his unrihtes m&aelig;st ge&thorn;encan, gif he bi&eth; ana on deogolnesse.</s>
+<s xml:id="T06710000800" n="3.16">&THORN;&aelig;r me &aelig;teowde openlice hit self eall swa hw&aelig;t swa me mislicode be minre agenre wisan, &amp; &thorn;&aelig;r comon sweotollice beforan &thorn;am eagum minre heortan eall &thorn;a gedonan unriht, &thorn;e gewunedan, &thorn;&aelig;t hi me sar &amp; sorge ongebrohton.</s>
+<s xml:id="T06710000900" n="3.24">Witodlice ic s&aelig;t &thorn;a &thorn;&aelig;r swi&eth;e geswenced &amp; lange swigende.</s>
+<s xml:id="T06710001000" n="3.26">&ETH;a com me to min sunu Petrus &amp; min se leofesta diacon, se w&aelig;s gebunden &amp; getogen to me heowcu&thorn;lice mid freondlicre lufan fram &thorn;&aelig;re frym&eth;e his geogo&eth;hades, &amp; he w&aelig;s symble min gefyra to smeaunge &thorn;&aelig;s halgan wordes &amp; &thorn;&aelig;re godcundan lare.</s>
+<s xml:id="T06710001100" n="3.33">&amp; he &thorn;a lociende on me geseah, &thorn;&aelig;t ic w&aelig;s gesw&aelig;nced mid hefigum sare minre heortan.</s>
+<s xml:id="T06710001200" n="3.36">&amp; &thorn;a cw&aelig;&thorn; he &thorn;us to me: ac la, gelamp &thorn;e aht niwes?</s>
+<s xml:id="T06710001300" n="4.2">Forhwan hafast &thorn;u maran gnornunge, &thorn;onne hit &aelig;r gewuna w&aelig;s?</s>
+<s xml:id="T06710001400" n="4.4">&ETH;a cw&aelig;&eth; ic to him: eala, Petrus, seo gnornung, &thorn;e ic dreoge daga gehwylce, symble heo is me eald for gewunan, &amp; symble heo is me niwe for eacan.</s>
+<s xml:id="T06710001500" n="4.9">Min &thorn;&aelig;t unges&aelig;lige mod is swi&eth;e gecnyssed &amp; gedrefed for &thorn;&aelig;re wunde his bysgunge &amp; gemyne&thorn;, hwilc hit &aelig;r w&aelig;s on mynstre: hu hit him on b&aelig;c let &amp; forhogode eall &thorn;as gewitendlican &thorn;ing, &amp; hu swi&thorn;e hit oferhlifade ealle &thorn;as woruld&thorn;ing, &thorn;e we on drohtnia&eth;, &amp; &thorn;&aelig;t hit ne gewunode naht elles &thorn;encan, buton &thorn;a heofonlican; &amp; &thorn;&aelig;r eac hit oferstah, &thorn;eah &thorn;e hit beh&aelig;fd w&aelig;re in lichaman, &thorn;a locu seolf &thorn;&aelig;s lichaman mid sceawunge &thorn;&aelig;s heofonlican lifes; &amp; eac &thorn;one dea&eth;, &thorn;e &thorn;ence&thorn; fullneah eallum mannum wite, &thorn;one hit lufade &thorn;&aelig;r gelice swilce lifes ingang &amp; his gewinnes mede &amp; edlean.</s>
+<s xml:id="T06710001600" n="4.29">&amp; nu for &thorn;am bysegum &thorn;issere biscoplican scire hit &thorn;rowa&eth; &thorn;a ymbhogan woruldlicra manna, &amp; &aelig;fter swa f&aelig;gerre onsyne his r&aelig;ste, &thorn;e hit on w&aelig;s, hit is nu afyled mid &thorn;y duste eor&eth;licra d&aelig;da.</s>
+<s xml:id="T06710001700" n="5.1">&amp; nu, &thorn;onne hit tostreigde&eth; &amp; tod&aelig;le&eth; hit sylf ymb o&eth;erra manna wisan for nyd&thorn;earfe manigra manna, witodlice &thorn;onne hit wile ymb his agene &thorn;&aelig;ncan, buton tweon hit gehweorfe&thorn; &thorn;y medmare to his sylfes &thorn;earfe.</s>
+<s xml:id="T06710001800" n="5.8">Genoh georne ic gehycge, &thorn;&aelig;t ic dreoge, &amp; hw&aelig;t ic anforlet.</s>
+<s xml:id="T06710001900" n="5.10">&amp; symble &thorn;onne ic ge&thorn;ence, &thorn;&aelig;t ic <corr>&aelig;r</corr> forleas &thorn;a dyglan stowe, me &thorn;ince&thorn; &thorn;is &thorn;y hefigre, &thorn;&aelig;t ic nu r&aelig;fnige.</s>
+<s xml:id="T06710002000" n="5.13">Geseoh nu, Petrus, &thorn;&aelig;t me is gelicost &thorn;on &thorn;e &thorn;am lefan scipe by&eth;, &thorn;&aelig;t by&eth; geswenced mid &thorn;am y&thorn;um mycclan s&aelig;s: swa ic eom nu onstyred mid &thorn;am gedrefednyssum &thorn;issere worulde, &amp; ic eom gecnyssed mid &thorn;am stormum &thorn;&aelig;re strangan hreohnesse in &thorn;am scipe mines modes.</s>
+<s xml:id="T06710002100" n="5.22">&amp; &thorn;onne ic gemune mines &thorn;&aelig;s &aelig;rran lifes, &thorn;e ic on mynstre &aelig;r on wunode, &thorn;onne asworette ic &amp; geomrige gelice &thorn;am, &thorn;e on lefan scipe neah lande gel&aelig;ta&eth;, &amp; hit &thorn;onne se &thorn;oden &amp; se storm on s&aelig; adrife&eth; swa feorr, swa he &aelig;t nyhstan n&aelig;nig land geseon ne m&aelig;g.</s>
+<s xml:id="T06710002200" n="5.30">&amp; eac me &thorn;ynce&thorn;, &thorn;&aelig;t nu gyt <corr>micele</corr> hefigre sy, &thorn;&aelig;t, &thorn;onne ic beo gesl&aelig;gen &amp; gedrefed mid &thorn;am unm&aelig;tum y&thorn;um &thorn;issera woruld&thorn;inga, &thorn;&aelig;t ic &thorn;onne unea&thorn;e m&aelig;g a ge&thorn;encan &amp; geseon &thorn;a hy&thorn;e, &eth;e ic forlet, &thorn;a ic of mynstre gewat.</s>
+<s xml:id="T06710002300" n="6.5">For&thorn;on swilce beo&eth; &thorn;&aelig;s mannes modge&thorn;ancas: &thorn;onne he &aelig;rest &thorn;&aelig;t god forleose&eth;, &thorn;&aelig;t &thorn;e he &aelig;r h&aelig;fde, he swa &thorn;eh &aelig;t fruman gemyne&eth;, &thorn;&aelig;t he <corr>hit</corr> forleas, &amp; &thorn;onne &thorn;&aelig;t mod feor gewite&thorn; ymb o&thorn;re &eth;ing, eac swylce hit forgyte&thorn; his agnes godes, &thorn;e hit &aelig;r forleas, &amp; &thorn;onne &aelig;t nyxstan hit geweor&eth;e&thorn;, &thorn;&aelig;t se mann na ne gemyne&thorn; &thorn;&aelig;s &thorn;e he &aelig;r h&aelig;fde.</s>
+<s xml:id="T06710002400" n="6.16">For&thorn;on ic spr&aelig;c &aelig;r beforan swa, &thorn;&aelig;t, &thorn;onne we li&eth;a&eth; feor, &aelig;t nehstan we no geseo&eth; &thorn;a stilnesse &thorn;&aelig;re hy&thorn;e, &thorn;e we &aelig;r fram leton.</s>
+<s xml:id="T06710002500" n="6.20">&amp; eac me by&thorn; full oft to gemynde becumen &amp; ge&thorn;eoded to ecan mines sares sumra manna lif, &thorn;a &thorn;e forleton mid eallum mode &thorn;as andweardan worulde.</s>
+<s xml:id="T06710002600" n="6.25">&THORN;onne ic sceawige &thorn;&aelig;re heanesse <corr>&amp;</corr> rihtwisnesse, ic ge&thorn;ence, hu swy&thorn;e ic sylf licge in &thorn;isum ny&thorn;erlicum &thorn;ingum.</s>
+<s xml:id="T06710002700" n="6.28">Manige &thorn;ara gelicodon heora scyppende in deogolran life.</s>
+<s xml:id="T06710002800" n="6.30">Hi ne ealdodon n&aelig;fre fram heora modes niwnysse &thorn;urh eor&eth;lice d&aelig;de, &amp; &aelig;lmihtig God nolde hi abysgian mid &thorn;am gewinnum &thorn;ises middaneardes.</s>
+<s xml:id="T06710002900" n="6.34">Ac nu &thorn;a &thorn;e ic ymb sprece, ic gecy&eth;e bet, me &thorn;ince&eth;, gif ic asceade mid mearcunge &thorn;ara namena, &thorn;a &thorn;e her be&aelig;ftan ges&aelig;de w&aelig;ron &thorn;urh acsunge &amp; <corr>andsware</corr>.</s>
+<s xml:id="T06710003000" n="7.5">Petrus cw&aelig;&eth; to him: ne oncneow ic naht swi&eth;e, hwe&thorn;er in Langbeardum &aelig;fre asceonan &aelig;nigra manna lif mid m&aelig;gnum &amp; wundrum.</s>
+<s xml:id="T06710003100" n="7.9">Nat ic, hwi &thorn;u sy eallinga on&aelig;led &amp; ontihted of <corr>&thorn;ara</corr> bysne &amp; wi&eth;metenysse.</s>
+<s xml:id="T06710003200" n="7.12">Ne tweoge ic naht, &thorn;&aelig;t gode weras w&aelig;ron on &thorn;ysum lande: &thorn;onne wene ic hw&aelig;&thorn;re, &thorn;&aelig;tte wundra &amp; m&aelig;gnu o&eth;&eth;e n&aelig;nige &thorn;inga fram heom gewordene w&aelig;ron, o&eth;&eth;e hig o&eth; &thorn;is forswigede w&aelig;ron, &thorn;&aelig;t we nyton, hw&aelig;&thorn;er <corr>hig</corr> gewordene w&aelig;ron o&thorn;&thorn;e n&aelig;ron.</s>
+<s xml:id="T06710003300" n="7.20">Gregorius him andswarode: eala, Petrus, gif ic &thorn;e &thorn;a ana asecge be fullmedemum &amp; gecorenum werum, &thorn;e ic sylf, an yfellic man, ongeat &aelig;t &thorn;am godum &amp; &thorn;am geleaffullum werum, &thorn;e hit me cy&thorn;don, &amp; eac &thorn;a, &thorn;e ic &thorn;urh me sylfne oncneow &amp; geleornode, ic wene, &thorn;&aelig;t &thorn;es d&aelig;g blinne&eth;, &aelig;r me spell ateorige.</s>
+<s xml:id="T06710003400" n="7.30">Petrus him to cw&aelig;&eth;: ic wolde la, &thorn;&aelig;t &thorn;u me acsiendum s&aelig;dest hw&aelig;thugu be &thorn;am godan werum, &amp; &thorn;&aelig;t &thorn;e ne &thorn;uhte to hefig, &thorn;&aelig;t &thorn;u ongunne hw&aelig;thugu gebrecan in &thorn;one wisdom &thorn;&aelig;re gerecenysse, for&thorn;on ne cym&eth; naht ungelic trymnes upp, ac swa swi&thorn;e ge&thorn;w&aelig;rlicu of &eth;&aelig;re gemynde godra m&aelig;gna.</s>
+<s xml:id="T06710003500" n="8.4">Witodlice in &thorn;&aelig;re gerecenysse we magon ongytan, hulic &thorn;&aelig;t gode m&aelig;gn by&thorn; to findanne &amp; to habbanne, &amp; we magon oncnawan in &thorn;&aelig;re segene &thorn;&aelig;ra wundra, hu &thorn;&aelig;t <corr>m&aelig;gen</corr> funden &amp; geh&aelig;fd by&eth; &amp; gem&aelig;red.</s>
+<s xml:id="T06710003600" n="8.11">Full manega men w&aelig;ron, &thorn;a &thorn;e on&aelig;la&eth; &amp; getihta&eth; &thorn;a bysna godra wera swy&eth;or &thorn;onne &thorn;a lare to &thorn;&aelig;re lufan &thorn;&aelig;s <corr>heofonlican</corr> e&eth;les.</s>
+<s xml:id="T06710003700" n="8.15">&amp; swa geweor&eth;e&thorn; full oft, &thorn;&aelig;t &thorn;am mode &thorn;&aelig;s <corr>gehyrendan</corr> becyme&thorn; twifeald fultum on &thorn;am bysenum ura f&aelig;dera: for&thorn;on hit by&thorn; onb&aelig;rned of wi&eth;metennesse godra foregangendra <corr>wera</corr> to &thorn;&aelig;re lufan &thorn;&aelig;s toweardan lifes, &amp; &thorn;eh hit wene, &thorn;&aelig;t hit sylf hw&aelig;thwugu sy, symble hit by&eth; geeadmodod &thorn;&aelig;s &thorn;e swy&eth;or, &thorn;onne hit ongyte&thorn; &aelig;nige beteran wisan be o&eth;rum mannum.</s>
+<s xml:id="T06710003800" n="8.26">Gregorius him andswarode: &thorn;a wisan, &thorn;e ic me acsode &aelig;t s&aelig;gene arwur&thorn;ra wera, untwygendlice ic &thorn;e &thorn;a secge mid bysene &thorn;&aelig;re halgan ealdorlicnysse.</s>
+<s xml:id="T06710003900" n="8.31">We witon, &thorn;&aelig;t us eallum cu&thorn; is, &thorn;&aelig;t Marcus &amp; Lucas writon &thorn;&aelig;t godspel nal&aelig;s &thorn;&aelig;t hi hit gesawon, ac hi hit geleornodon, swa hi hit gehyrdon of Petres mu&eth;e &amp; of Paules &thorn;&aelig;ra apostola.</s>
+<s xml:id="T06710004000" n="9.4">Swa ic eac wille animan &amp; ateon fram &thorn;am, &thorn;e &thorn;as boc r&aelig;da&eth;, &thorn;one intingan &aelig;lcre tweonge &aelig;t &aelig;lcum &thorn;&aelig;ra spella, &thorn;e ic write, &amp; ic &thorn;&aelig;t gecy&thorn;e, &aelig;t hwilcum ordfruman ic geacsode, &thorn;a &thorn;e ic secge.</s>
+<s xml:id="T06710004100" n="9.10">Ic wille, Petrus, &thorn;&aelig;t &thorn;u wite, &thorn;&aelig;t ic nime in sumum &thorn;&aelig;t andgyt <corr>an</corr> &amp; in sumum &thorn;a word mid &thorn;y andgyte: for&thorn;on gif ic be eallum &thorn;am hadum synderlice &thorn;a word animan wolde, &thorn;onne w&aelig;ron hi for&eth;brohte <corr>ceorlisce</corr> &eth;eawe, &amp; hi na seo hand &amp; &thorn;&aelig;t gewrit &thorn;&aelig;s writendan swa gecoplice ne onfengce.</s>
+<s xml:id="T06710004200" n="9.19">Ic geleornode &amp; gefr&aelig;gn &aelig;t ges&aelig;gene swi&eth;e arwyr&eth;ra witena &thorn;&aelig;t <corr>&thorn;&aelig;t</corr> ic nu secge.</s>
+</p>
+</body>
+</text>
+</TEI>

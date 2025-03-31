@@ -1,0 +1,133 @@
+
+<!DOCTYPE document [
+<!ENTITY aacute "&#x00E1;" >
+<!ENTITY Aacute "&#x00C1;" >
+<!ENTITY acirc "&#x00E2;" >
+<!ENTITY Acirc "&#x00C2;" >
+<!ENTITY agrave "&#x00E0;" >
+<!ENTITY Agrave "&#x00C0;" >
+<!ENTITY aring "&#x00E5;" >
+<!ENTITY Aring "&#x00C5;" >
+<!ENTITY atilde "&#x00E3;" >
+<!ENTITY Atilde "&#x00C3;" >
+<!ENTITY auml "&#x00E4;" >
+<!ENTITY Auml "&#x00C4;" >
+<!ENTITY aelig "&#x00E6;" >
+<!ENTITY AElig "&#x00C6;" >
+<!ENTITY ccedil "&#x00E7;" >
+<!ENTITY Ccedil "&#x00C7;" >
+<!ENTITY eth "&#x00F0;" >
+<!ENTITY ETH "&#x00D0;" >
+<!ENTITY eacute "&#x00E9;" >
+<!ENTITY Eacute "&#x00C9;" >
+<!ENTITY ecirc "&#x00EA;" >
+<!ENTITY Ecirc "&#x00CA;" >
+<!ENTITY egrave "&#x00E8;" >
+<!ENTITY Egrave "&#x00C8;" >
+<!ENTITY euml "&#x00EB;" >
+<!ENTITY Euml "&#x00CB;" >
+<!ENTITY iacute "&#x00ED;" >
+<!ENTITY Iacute "&#x00CD;" >
+<!ENTITY icirc "&#x00EE;" >
+<!ENTITY Icirc "&#x00CE;" >
+<!ENTITY igrave "&#x00EC;" >
+<!ENTITY Igrave "&#x00CC;" >
+<!ENTITY iuml "&#x00EF;" >
+<!ENTITY Iuml "&#x00CF;" >
+<!ENTITY ntilde "&#x00F1;" >
+<!ENTITY Ntilde "&#x00D1;" >
+<!ENTITY oacute "&#x00F3;" >
+<!ENTITY Oacute "&#x00D3;" >
+<!ENTITY ocirc "&#x00F4;" >
+<!ENTITY Ocirc "&#x00D4;" >
+<!ENTITY ograve "&#x00F2;" >
+<!ENTITY Ograve "&#x00D2;" >
+<!ENTITY oslash "&#x00F8;" >
+<!ENTITY Oslash "&#x00D8;" >
+<!ENTITY otilde "&#x00F5;" >
+<!ENTITY Otilde "&#x00D5;" >
+<!ENTITY ouml "&#x00F6;" >
+<!ENTITY Ouml "&#x00D6;" >
+<!ENTITY szlig "&#x00DF;" >
+<!ENTITY thorn "&#x00FE;" >
+<!ENTITY THORN "&#x00DE;" >
+<!ENTITY uacute "&#x00FA;" >
+<!ENTITY Uacute "&#x00DA;" >
+<!ENTITY ucirc "&#x00FB;" >
+<!ENTITY Ucirc "&#x00DB;" >
+<!ENTITY ugrave "&#x00F9;" >
+<!ENTITY Ugrave "&#x00D9;" >
+<!ENTITY uuml "&#x00FC;" >
+<!ENTITY Uuml "&#x00DC;" >
+<!ENTITY yacute "&#x00FD;" >
+<!ENTITY Yacute "&#x00DD;" >
+<!ENTITY yuml "&#x00FF;" >
+<!ENTITY nbsp "&#160;" >
+]>
+<TEI xml:id="T06730">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="st">GDPref 2 (C)</title>
+<title type="ss">GDPref 2 (C)</title>
+<respStmt><name>DOE</name><resp>staff</resp></respStmt>
+</titleStmt>
+<editionStmt>
+<edition n="4"><date>November 2009</date></edition>
+</editionStmt>
+<extent>~5.7 KB, 16 citations</extent>
+<publicationStmt>
+<publisher>Dictionary of Old English</publisher>
+<address>
+<addrLine>130 St. George St. Rm. 14285</addrLine>
+<addrLine>University of Toronto</addrLine>
+<addrLine>Toronto, Ontario</addrLine>
+<addrLine>M5S 3H1</addrLine>
+<addrLine>CANADA</addrLine>
+</address>
+<idno>B9.5.3</idno>
+<availability>
+<p>We ask that you not copy and/or (re)distribute the corpus without the written consent of the Dictionary of Old English. The individual scholar must take responsibility for clearing copyright with the editors and publishers of the editions used in his/her own citations of the material.</p>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<bibl>Gregory the Great, Dialogues, Preface to Book 2 (Cambridge, Corpus Christi College, MS. 322):<author rend="Hecht, H.">Hecht</author><date>1900-7</date>94-6<edition><title>Bischof Waerferths von Worcester Uebersetzung der Dialoge Gregors des Grossen</title>, Bib. ags. Prosa 5 (Leipzig and Hamburg) [repr. Darmstadt 1965]</edition>.</bibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<refsDecl><p>Cited by page and line no. following ed.</p></refsDecl>
+</encodingDesc>
+<profileDesc>
+<textClass><catRef target="P"/></textClass>
+</profileDesc>
+<revisionDesc>
+<change when="January 2000">
+<list> 
+<item>Updated the bibliographic information from the Healey-Venezky "List of Texts".</item>
+</list>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<p>
+<s xml:id="T06730000100" n="94.12">Her yrne&eth; up se &aelig;ftra stream &thorn;&aelig;re godcundan spr&aelig;ce, se cym&eth; of &thorn;&aelig;re rynelan &thorn;&aelig;s gastlican &aelig;sprynges &amp; &thorn;am halgan gaste forgeofendum g&aelig;&thorn; &thorn;urh &thorn;a ofergyldan weoloras &thorn;&aelig;s eadigan &amp; &thorn;&aelig;s apostolican weres sancte Gregories, se mid Grecum Crysosthomas is gehaten, to &thorn;on &thorn;&aelig;t &thorn;urh &thorn;a toflowendnysse &thorn;&aelig;s ylcan streames sy onlihte &amp; ge&thorn;enede &thorn;a inge&thorn;ancas geleaffulra breosta.</s>
+<s xml:id="T06730000200" n="94.23">&THORN;ysum wordum se ilca gyldenmu&eth;a Gregorius w&aelig;s sprecende &amp; &thorn;us cw&aelig;&thorn;: sum w&aelig;s swy&thorn;e arwyr&eth;es lifes wer, se w&aelig;s mid Godes gife gebletsod &amp; be naman Benedictus genemned, &thorn;&aelig;t is on Englisc se gebletsoda.</s>
+<s xml:id="T06730000300" n="94.30">Se sona of &thorn;&aelig;re tide his cnihthades w&aelig;s healdende &amp; donde swy&eth;e gedafenlice ylde on his &thorn;eawum, &amp; ne sealde he his mod n&aelig;nigum unrihtum.</s>
+<s xml:id="T06730000400" n="95.3">Ac he w&aelig;s &thorn;a gyt on &thorn;yssere eor&eth;an geseted, &thorn;&aelig;t he mihte hwilwendlice lifigean, swa ma manna do&eth;.</s>
+<s xml:id="T06730000500" n="95.7">&THORN;a geo sona forseah &thorn;isne middaneard mid his blostman, efne swylce he naht &amp; adrugod w&aelig;re.</s>
+<s xml:id="T06730000600" n="95.10">He w&aelig;s geboren of freon &amp; of &aelig;&thorn;elum cynne Nursige &thorn;&aelig;re m&aelig;g&eth;e, &amp; he w&aelig;s bef&aelig;sted to Romebyrig, &thorn;&aelig;t he sceolde boccr&aelig;ftas &amp; gewrita wisdomas leornian.</s>
+<s xml:id="T06730000700" n="95.14">Ac &thorn;a &thorn;a he geseah manige men gan &thorn;urh &thorn;a st&aelig;&thorn;hlypan heora uncysta, his agnum fet he wi&eth;teah, &thorn;one he asette &aelig;r swa swa in &thorn;am ingange &thorn;isses middaneardes.</s>
+<s xml:id="T06730000800" n="95.19">&THORN;am he wi&eth;br&aelig;gd, &thorn;y l&aelig;s hit gelumpe, &thorn;&aelig;t hw&aelig;t unrihtes hine gehrine of his agenum ge&thorn;ohte &amp; ungewitnysse, &amp; he &thorn;onne sylfa &aelig;fter &thorn;on eall geeode in mycelre forspildnyssum.</s>
+<s xml:id="T06730000900" n="95.25">&amp; &thorn;a fors&aelig;genum &thorn;am onginnum &thorn;ara boccr&aelig;fta, he forlet his hus &amp; his f&aelig;der &aelig;hta &amp; gewilnode, &thorn;&aelig;t he Gode anum licode.</s>
+<s xml:id="T06730001000" n="95.29">He sohte &amp; geceas &thorn;one had &amp; gegyrelan &thorn;&aelig;s halgan munuclifes &amp; him &thorn;a gewat swi&thorn;e gewisfullice, swilce he unwis w&aelig;re, &amp; ferde swa ungel&aelig;red swy&thorn;e snotorlice.</s>
+<s xml:id="T06730001100" n="96.1">Ne leornode ic sylf na ealle &thorn;a d&aelig;da &thorn;yses godan weres, ac &thorn;a feawa, &thorn;e ic secge, ic ong&aelig;t &aelig;t feowrum his gingrum, &thorn;a hit me s&aelig;don, witodlice fram Constantine &thorn;am swy&thorn;e arwyr&eth;an were, se him &aelig;fterfyligde in &thorn;&aelig;s mynstres rihtinge &amp; hlaforddome.</s>
+<s xml:id="T06730001200" n="96.8">&amp; eac swylce ic hit gehyrde fram Ualentine, se manega g&aelig;r w&aelig;s fore &thorn;am mynstre &aelig;t Latrane, &amp; fram Simplicio, se w&aelig;s &thorn;rydde &thorn;e rihte &aelig;fter him Benedicte his gesomnunge, &amp; eac ic hit gefr&aelig;gn &aelig;t Honorate, se nu gyt tod&aelig;ge is fore &thorn;am ylcan mynstre, in &thorn;am se ylca wer w&aelig;s drohtniende.</s>
+<s xml:id="T06730001300" n="96.17">Witodlice se halga wer Benedictus ge&thorn;ohte, &thorn;&aelig;t he forlete &thorn;a ongin &thorn;&aelig;ra boccr&aelig;fta.</s>
+<s xml:id="T06730001400" n="96.20">He gesohte westennu, &amp; his fostormoder ane w&aelig;s him fylgende, for&thorn;on &thorn;e heo hine swy&eth;e geornlice lufode.</s>
+<s xml:id="T06730001500" n="96.23">&amp; &thorn;a &thorn;a hi becomon to &thorn;&aelig;re stowe, &thorn;e is genemned Effide, hi wunodon &thorn;&aelig;r mid manigum arwyr&eth;um werum.</s>
+<s xml:id="T06730001600" n="96.26">&THORN;a weras h&aelig;fdon hi sylfe &thorn;&aelig;r mid lufan in &thorn;&aelig;re cyrican &thorn;&aelig;s eadigan apostoles sancte Petres.</s>
+</p>
+</body>
+</text>
+</TEI>
