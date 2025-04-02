@@ -18,12 +18,11 @@
          <publicationStmt>
             <publisher>University of Siena</publisher>
             <pubPlace>Siena</pubPlace>
-            <date>date of publication to be defined</date>
-            <!--
+            <date> aprile 2025 </date>
+           
             <availability>
-               <p>Il progetto è realizzato per la libera consultazione. Tutti i contenuti sono
-                  riproducibili a patto che se ne indichi la fonte.</p>
-            </availability> -->
+               <p>Copyright dell'Università di Siena. Il progetto può essere riprodotto a patto che se ne citi la fonte.</p>
+            </availability>
          </publicationStmt>
              
          <notesStmt>
@@ -131,8 +130,8 @@
               <p/>
            </segmentation>
            <hyphenation eol="all">
-              <p> Si va a capo seguendo il manoscritto, con le eccezioni di Langbeardena 76r; Gregoria 77v; Aurelia 86v; Petrus 88r; Langbeardna 96v;
-                 Suðlangbeardum 97v; Erminigildus 98r; Atriacio 103v; Langbeardna 109v. Questi nomi propri vengono portati sullo stesso rigo per ragioni di marcatura.</p>
+              <p> Si va a capo seguendo il manoscritto, con le eccezioni di Wændla 67v; Langbeardena 76v; Gregoria 78r; Aurelia 87r; Petrus 88v; Langbeardna 97r;
+                 Suðlangbeardum 98r; Erminigildus 98v; Atriacio 104r; Langbeardna 110r. Questi nomi propri vengono portati sullo stesso rigo per ragioni di marcatura.</p>
            </hyphenation>
         </editorialDecl>
         
@@ -184,8 +183,8 @@
       <body>
          <p>
             
-<!-- #######################################  folio 67r ####################################### -->
-<pb n="67r" xml:id="OD_fol67r"/>
+<!-- #######################################  folio 67v ####################################### -->
+<pb n="67v" xml:id="OD_fol67v"/>
 <lb n="1"/> HER ONGINNEÐ SE ÞRIDDA FLOD OF ÐAM
 <lb n="2"/> neorxnawanglican wylle þe þurh þone gyldenan 
 <lb n="3"/> muþ forð aarn þæs halgan papan ⁊ biscopes sancte 
@@ -208,16 +207,16 @@
 <lb n="20"/> gesealde wædligendum mannum eall þæt ðe to his biscoprices
 <lb n="21"/> bryce belamp. ⁊ þa he nawiht næfde þe he mihte bid
 <lb n="22"/> dendum sellan. Þa sume dæge com to him an wydewe. seo sæde 
-<lb n="23"/> him þæt hire sunu wære gelæded in hæftnyde fram Wæn
-<lb n="24"/> la cyngces aðume. ⁊ bæd þone Godes wer. þæt he hire his
+<lb n="23"/> him þæt hire sunu wære gelæded in hæftnyde fram <orgName>Wændla</orgName>
+<lb n="24"/>  cyngces aðume. ⁊ bæd þone Godes wer. þæt he hire his
 <lb n="25"/> wliteweorþ gesealde þæt heo mihte hire sunu mid alysan 
 <lb n="26"/> gif þæt his hlaford onfon wolde. ⁊ hire geunnan þæt he eft 
 <lb n="27"/> mid hire ham gecyrde. ac se Godes wer georne sohte hwæt 
 <lb n="28"/> he mihte syllan þam biddendum wife. ⁊ nawiht ne funde
 <lb n="29"/> mid him buton hine sylfne. þa ⁊swarode he þam biddendum 
 <lb n="30"/> wife ⁊ cwæð. nat ic hwæt ic þe sylle elles buton me sylfne
-<!-- #######################################  folio 67v ####################################### -->
-<pb n="67v" xml:id="OD_fol67v"/>
+<!-- #######################################  folio 68r ####################################### -->
+<pb n="68r" xml:id="OD_fol68r"/>
 <lb n="1"/>  nim me ⁊ sæge þæt ic þin rihtþeowa sy. ⁊ syle me on þeowdome 
 <lb n="2"/> for hine þæt þu þinne sunu eft onfo. þa heo þis gehyrde 
 <lb n="3"/> of þam muþe swa myccles weres. heo wende þæt hit ma wære
@@ -248,8 +247,8 @@
 <lb n="28"/> sumra wyrta acsode þone his wyrtweard. þa gecneow 
 <lb n="29"/> he þæt he wæs swiþe wis man. ⁊ þa ongan he his freond 
 <lb n="30"/> ⁊ his geferan bebugan ⁊ gelomlice sprecan wiþ þone
-<!-- #######################################  folio 68r ####################################### -->
-<pb n="68r" xml:id="OD_fol68r"/>
+<!-- #######################################  folio 68v ####################################### -->
+<pb n="68v" xml:id="OD_fol68v"/>
 <lb n="1"/> his wyrtweard. ⁊ hine ongan wel his wyrta lystan. Þam 
 <lb n="2"/> gewunode <persName>Paulinus</persName> dæghwamlice bringan to beode grene 
 <lb n="3"/> wyrta wel stincende. ⁊ onfangenum hlafe eft hweor
@@ -280,8 +279,8 @@
 <lb n="28"/> ic ne þysne wer swa mycelre geearnunge. swa swiþe
 <lb n="29"/> beon þissere worulde man swa swa we wenað. He þa 
             <lb n="30"/> þæs cyngces aþum cigde <persName>Paulinum</persName> on sundor ⁊ acsode
-<!-- #######################################  folio 68v ####################################### -->
-<pb n="68v" xml:id="OD_fol68v"/>
+<!-- #######################################  folio 69r ####################################### -->
+<pb n="69r" xml:id="OD_fol69r"/>
 <lb n="1"/>  hwæt he wære. Him þa se drihtnes wer ⁊swarode ⁊ cwæð. ic
 <lb n="2"/> eom þin þeowa þone þu to gehwearfe name for þære
 <lb n="3"/> wydewan sunu. ⁊ þa hine georne bæd þæt he sæde hwæt
@@ -312,8 +311,8 @@
 <lb n="28"/> awriten þæt he wæs gehrinen mid sidwærce ⁊ þurh
 <lb n="29"/> þæt to his ænde gelæded þæt eall his mynsterstede full
 <lb n="30"/> fæste gestod buton þam gebedhuse anum in þam he læg 
-<!-- #######################################  folio 69r ####################################### -->
-<pb n="69r" xml:id="OD_fol69r"/>
+<!-- #######################################  folio 69v ####################################### -->
+<pb n="69v" xml:id="OD_fol69v"/>
 <lb n="1"/> seoc. gewordenre eorðstyrene eall hit abifode. ⁊ ealle
 <lb n="2"/> þe þær æt wæron mid swyðlicum brogan astyrede. ⁊ 
 <lb n="3"/> þa wæs alysed seo halige sawl of þam lichaman. ⁊ þa 
@@ -344,8 +343,8 @@
             <lb n="28"/> gode. Be þam ylcan <persName>Iohanne</persName> þis wundor gewunode beon sæd 
             <lb n="29"/> fram urum witum þæt he in <placeName>Constantinopolim</placeName> þære byrig cumende 
             <lb n="30"/> to þam geate þæt is genæmned <placeName>Aurea Porta</placeName>. him ongæn yrnn
-<!-- #######################################  folio 69v ####################################### -->
-<pb n="69v" xml:id="OD_fol69v"/>
+<!-- #######################################  folio 70r ####################################### -->
+<pb n="70r" xml:id="OD_fol70r"/>
 <lb n="1"/> nendum folca mænigum in eallra gesihðe biddendum anum
 <lb n="2"/> blindum gesyhðe he sealde ⁊ mid ofer asetedre handa he aflymde 
 <lb n="3"/> þara eagena þeostru. 
@@ -376,8 +375,8 @@
             <lb n="28"/> nes þa þa <persName>Datius</persName> wæs gefyrðrod mid trymnesse rihtes
             <lb n="29"/> geleafan. Se wæs biscop þære burge <placeName>Mediolana</placeName>. þa on
             <lb n="30"/> gan he faran to <placeName>Constantinopolim</placeName> þære byrig 
-<!-- #######################################  folio 70r ####################################### -->
-<pb n="70r" xml:id="OD_fol70r"/>
+<!-- #######################################  folio 70v ####################################### -->
+<pb n="70v" xml:id="OD_fol70v"/>
             <lb n="1"/> ⁊ he becom to <placeName>Coienthi</placeName> þære mægðe. Þa ongan he secan
 <lb n="2"/> him swa rum hus þæt he mihte mid his geferrædene eallum in ge-
 <lb n="3"/> wician. ⁊ he þæt uneaðe findan mihte. Þa geseah he feor-
@@ -408,8 +407,8 @@
 <lb n="28"/> wære unwyrðe ⁊ hwæþre woldest þinne drihten
 <lb n="29"/> onhyrgian. nu swa swa þu wyrðe eart þu onhyrest
 <lb n="30"/> wilddeor. ⁊ þa gehyredre þære his stemne swa swa
-<!-- #######################################  folio 70v ####################################### -->
-<pb n="70v" xml:id="OD_fol70v"/>
+<!-- #######################################  folio 71r ####################################### -->
+<pb n="71r" xml:id="OD_fol71r"/>
 <lb n="1"/>  ic secge for ðære onwegadrifennesse se awyrgda gast 
 <lb n="2"/> his sceamode se þe onufan þæt ne eode na in þæt hus þe he
 <lb n="3"/> ær his scincræftas in gegearwode. ⁊ swa æfter þon hit wæs
@@ -440,8 +439,8 @@
 <lb n="28"/> to þon þæt he gesawe ⁊ ongeate hwæþer se biscop wære 
 <lb n="29"/> geseondum ⁊ oncnawan mihte þurh Godes gast hwa þæt wære
 <lb n="30"/> þe him þone drync sealde. Þa se Godes wer onfeng þam 
-<!-- #######################################  folio 71r ####################################### -->
-<pb n="71r" xml:id="OD_fol71r"/>
+<!-- #######################################  folio 71v ####################################### -->
+<pb n="71v" xml:id="OD_fol71v"/>
 <lb n="1"/>  hnæppe ⁊ na ne geseah þone þegn. ac he hwæþre cwæð: lifige 
 <lb n="2"/> þeos hand in ecnysse þe me þysne drync syleþ. For þam 
 <lb n="3"/> worde se cyning wæs bliðe ⁊ þehhwæðer him sceamode forþon 
@@ -472,8 +471,8 @@
 <lb n="28"/> þæt ænigne deað ongebrohte. ac he wearð acweald
 <lb n="29"/> mid þy attre his agnes niþes in gesihþe þæs ecan deman. 
 <lb n="30"/><persName>Petrus</persName> cwæð. þas wisan syndon wundorlice ⁊ on urum tidum
-<!-- #######################################  folio 71v ####################################### -->
-<pb n="71v" xml:id="OD_fol71v"/>
+<!-- #######################################  folio 72r ####################################### -->
+<pb n="72r" xml:id="OD_fol72r"/>
 <lb n="1"/> hi syndon us swiðe to wafienne. Ac hit sægd is þæt þyses
 <lb n="2"/> ylcan weres lif swylc wære þæt se þe ongyteð his drohtað 
 <lb n="3"/> ne scyle he wundrian his mægn. 
@@ -504,8 +503,8 @@
 <lb n="28"/> hine fram þære heannesse þara oferhygda. 
 <lb n="29"/> Ac nu þa þa ic sæde þa wyrda haligra wera færinga
 <lb n="30"/> me becom to gemynde. hu seo godcunde mildheortnes
-<!-- #######################################  folio 72r ####################################### -->
-<pb n="72r" xml:id="OD_fol72r"/>
+<!-- #######################################  folio 72v ####################################### -->
+<pb n="72v" xml:id="OD_fol72v"/>
             <lb n="1"/> gecyðde ymbe <persName>Andream</persName> þone biscop þære cæstre <placeName>Fundene</placeName>. 
 <lb n="2"/> Þæt þonne hwæþre ic wysce ⁊ wilnige þæt þa magon gehealdan
 <lb n="3"/> þe þis rædað. ⁊ þæt hi ne geneþon na þæt hi geeardian mid wifum
@@ -536,8 +535,8 @@
 <lb n="28"/> he þærin ⁊ þær þa niht gewunode ⁊ him swiþe ondred
 <lb n="29"/> þa feondgyld þe þærinne wæron Þeah þe he næfde
 <lb n="30"/> rihtne geleafan. hwæþere he hine mid <persName>Cristes</persName> rode-
-<!-- #######################################  folio 72v ####################################### -->
-<pb n="72v" xml:id="OD_fol72v"/>
+<!-- #######################################  folio 73r ####################################### -->
+<pb n="73r" xml:id="OD_fol73r"/>
 <lb n="1"/> tacne gesegnode. ⁊ þa soðlice ymb middeniht he læg 
 <lb n="2"/> wæccende. þa wearð he mid mycelre fyrhte gedrefed
 <lb n="3"/> ⁊ þa færinga tolociende geseah he myccle mænigu
@@ -568,8 +567,8 @@
 <lb n="28"/> ⁊ for mycelre nearonesse fyrhto he cwacode. ⁊ fram
 <lb n="29"/> ðam ylcan gaste beboden wæs se þær wæs yldra þonne þa 
 <lb n="30"/> oðre þe him þegnodon þæt hi secan sceolden hwylc se wære
-<!-- #######################################  folio 73r ####################################### -->
-<pb n="73r" xml:id="OD_fol73r"/>
+<!-- #######################################  folio 73v ####################################### -->
+<pb n="73v" xml:id="OD_fol73v"/>
 <lb n="1"/>  þe geþristlæhte to þon þæt he in þam temple gelæge. þa ferdon
 <lb n="2"/> þa awyrgdan gastas ⁊ geornlice hine beheoldon ⁊ hi gesawon
 <lb n="3"/> þæt he wæs gemearcod mid þy halgan geryne <persName>Cristes</persName> rode-
@@ -600,8 +599,8 @@
             <lb n="28"/> þæs eadigan apostoles sanctus <persName>Andreas</persName>. ⁊ he fæstlice ealle þa
 <lb n="29"/> costunga of his agnum lichaman adrigde. ⁊ soðlice þone
             <lb n="30"/> <orgName>Iudeiscan</orgName> man he geteah to þære ecan hæle þurh þæs
-<!-- #######################################  folio 73v ####################################### -->
-<pb n="73v" xml:id="OD_fol73v"/>
+<!-- #######################################  folio 74r ####################################### -->
+<pb n="74r" xml:id="OD_fol74r"/>
 <lb n="1"/>  gesihðe ⁊ þreaunge se biscop wearð gehæled. Witodlice he
 <lb n="2"/> gelædde hine to þam sceate þære halgan cyrican. ⁊ he hine
 <lb n="3"/> gelærde mid þy halgan geryne rihtes geleafan. ⁊ he hine
@@ -632,8 +631,8 @@
 <lb n="28"/> fram þam ymbstandendum ⁊ weopende hi hine acsodon
 <lb n="29"/> þus cweðende. hwylcne fæder habbað we æfter þe. Þa se 
 <lb n="30"/> fæder þurh witedomes gast him andswarode þus cweþende
-<!-- #######################################  folio 74r ####################################### -->
-<pb n="74r" xml:id="OD_fol74r"/>
+<!-- #######################################  folio 74v ####################################### -->
+<pb n="74v" xml:id="OD_fol74v"/>
             <lb n="1"/> æfter me <persName>Constantie</persName> fehð to min horsþegn. ⁊ æfter him <persName>Iobinus</persName>
             <lb n="2"/> se wæs min wæscestre. Eala þu burh þu <persName>Eqine</persName> þæt þe þus ge-
 <lb n="3"/> limpeð. ⁊ þa gecwedenum þyses witedomes wordum he his
@@ -664,8 +663,8 @@
 <lb n="28"/> gelomlice gedon wæs ⁊ mycclu neodþearf nydde þa land-
 <lb n="29"/> leode þære stowe þæt hi þære ea sum furlang heora weorces
 <lb n="30"/> gesealdan. þa ongunnon hi on oðre geran þa ea. Ac þeah þe
-<!-- #######################################  folio 74v ####################################### -->
-<pb n="74v" xml:id="OD_fol74v"/>
+<!-- #######################################  folio 75r ####################################### -->
+<pb n="75r" xml:id="OD_fol75r"/>
 <lb n="1"/> hi þær lange wuniende wæron ne mihton hi hwæðre 
 <lb n="2"/> þone stream of his rihtryne abygan. Þa worhte se 
             <lb n="3"/> drihtnes wer <persName>Frigdianus</persName> him ane lytle racan ⁊ eode to
@@ -696,8 +695,8 @@
 <lb n="28"/> flodes ⁊ cyrr to ðinum agenum rihtryne. Þa se deacon þæt 
 <lb n="29"/> gehyrde. þa hloh he ⁊ hine forseah. Þa se drihtnes wer 
 <lb n="30"/> him to gehet his writere ⁊ him dihtode þus cweðende <persName>Sabinus</persName>
-<!-- #######################################  folio 75r ####################################### -->
-<pb n="75r" xml:id="OD_fol75r"/>
+<!-- #######################################  folio 75v ####################################### -->
+<pb n="75v" xml:id="OD_fol75v"/>
 <lb n="1"/> se drihtnes þeowa þe het beodan þis gebod ⁊ þus cwæð. ic þe 
             <lb n="2"/> bebeode <placeName>Pad</placeName> on naman ures drihtnes hælendes <persName>Cristes</persName>
 <lb n="3"/> þæt þu ut ne gange of ðinum agnum ryne ofer ðis in þas stowe
@@ -728,8 +727,8 @@
 <lb n="28"/> hine man wurpe berum to fretanne beforan gesihðe
 <lb n="29"/> ealles þæs folces. ⁊ þa þa se ylca treowleasa cyningc
 <lb n="30"/> gesæt in ðære sceawunge to ðon þæt he wolde geseon þæs
-<!-- #######################################  folio 75v ####################################### -->
-<pb n="75v" xml:id="OD_fol75v"/>
+<!-- #######################################  folio 76r ####################################### -->
+<pb n="76r" xml:id="OD_fol76r"/>
 <lb n="1"/> biscopes deað. ⁊ þa wæs þær to cumen swyðe mycclu folca
 <lb n="2"/> mænigu. þa wæs eac se biscop gelæded in þone middel
 <lb n="3"/> þæs folces. ⁊ þær wæs begyten se mæsta ⁊ se ryþesta
@@ -760,8 +759,8 @@
             <lb n="28"/> <orgName>Langbeardisca</orgName> leoda ⁊ þæt land eall hergedon. Þa gewat 
             <lb n="29"/> se biscop to <placeName>Elbam</placeName> þam ealande ⁊ þa onhreosendre mettrum-
 <lb n="30"/> nesse he genealæhte to deaðe þa bebead he his preostum
-<!-- #######################################  folio 76r ####################################### -->
-<pb n="76r" xml:id="OD_fol76r"/>
+<!-- #######################################  folio 76v ####################################### -->
+<pb n="76v" xml:id="OD_fol76v"/>
 <lb n="1"/> nesse he genealæhte to deaðe þa bebead he his preostum
 <lb n="2"/> on mine byrgene þe ic me gegearwode. Þa sædon hi to 
 <lb n="3"/> him hu magon we þinne lichaman þider gelædan. we
@@ -793,8 +792,8 @@
 <lb n="29"/> nesse. Soþlice sum eald preost is nu gyt lifigende se us 
 <lb n="30"/> cyðde þæt he sylf þær andweard wære þus cweðende. Ful-
 
-<!-- #######################################  folio 76v ####################################### -->
-<pb n="76v" xml:id="OD_fol76v"/>
+<!-- #######################################  folio 77r ####################################### -->
+<pb n="77r" xml:id="OD_fol77r"/>
 <lb n="1"/> gentius wæs haten þære cyrican ⁊ þære biscopscire biscop
             <lb n="2"/> seo genemned is <placeName>Utricolensis</placeName>. Se hæfde swiðe abelged þone 
 <lb n="3"/> wælhreowan cyning <persName>Totila</persName> þa þa he mid herge to þære stowe
@@ -825,8 +824,8 @@
 <lb n="28"/> forseteþ heora sweoran ⁊ gebigeð þurh þa eadmodan men.
 <lb n="29"/> forþon þe heo hi symble ahebbað oferhigdilice ongen þa
 <lb n="30"/> bebodu þære soðfæstnesse.
-<!-- #######################################  folio 77r ####################################### -->
-<pb n="77r" xml:id="OD_fol77r"/>
+<!-- #######################################  folio 77v ####################################### -->
+<pb n="77v" xml:id="OD_fol77v"/>
             <lb n="1"/> Hac hit gelamp nu niwan þæt <persName>Floridus</persName> þæs arwyrðan lifes biscop me 
 <lb n="2"/> sæde sum swiðe wundorlic wundor. he cwæð þæt se halga wer
             <lb n="3"/> <persName>Erculanus</persName> min fosterfæder se wæs biscop <placeName>Purusine</placeName> þære
@@ -857,8 +856,8 @@
 <lb n="28"/> cyrrende onfangenre leafe to lifigenne þa þe ær flugon
 <lb n="29"/> ægþer ge þone hungor ge eac þone sleht. Þa wæron gemyndige 
 <lb n="30"/> þa buruhwaran hwylces lifes se heora biscop wæs ⁊ þa
-<!-- #######################################  folio 77v ####################################### -->
-<pb n="77v" xml:id="OD_fol77v"/>
+<!-- #######################################  folio 78r ####################################### -->
+<pb n="78r" xml:id="OD_fol78r"/>
 <lb n="1"/> geornlice sohton hwær his lichama bebyrged wære þæt hi
 <lb n="2"/> þone mid gerisenlicre are bebyrgdon in þære cyrcan þæs
 <lb n="3"/> eadigan apostoles sancte <persName>Petres</persName>. ⁊ þa þe to ðære byrgene geeodon
@@ -889,8 +888,8 @@
 <lb n="28"/> cyrican. in þam hi man gifan wolde haliges nunlifes droh-
 <lb n="29"/> toþ heo sohte ⁊ wilnode. ⁊ fram þam ylcan Godes were gescylded
 <lb n="30"/> ⁊ gefreoðod fram þam gyftum heo wæs gelæded gifendum
-<!-- #######################################  folio 78r ####################################### -->
-<pb n="78r" xml:id="OD_fol78r"/>
+<!-- #######################################  folio 78v ####################################### -->
+<pb n="78v" xml:id="OD_fol78v"/>
 <lb n="1"/> drihtne ⁊ scyldendum to ðam munuchade þe heo wilnode 
 <lb n="2"/> ⁊ gyrnde. ⁊ þa forþon þe heo fleah þæt heo hæfde ceorl
 <lb n="3"/> on eorðan heo geearnode habban brydguman on heo-
@@ -921,8 +920,8 @@
 <lb n="28"/> tan lifes. Ac þisne þa sona færinga in geeode seo wræc-
 <lb n="29"/>cenda gast ⁊ hine astrehte ⁊ afylde to þæs Godes
 <lb n="30"/> weres fotum. ⁊ þa ongan se deofol beforan eallum ðam
-<!-- #######################################  folio 78v ####################################### -->
-<pb n="78v" xml:id="OD_fol78v"/>
+<!-- #######################################  folio 79r ####################################### -->
+<pb n="79r" xml:id="OD_fol79r"/>
 <lb n="1"/> þe in ðære cyrican wæron þurh ðæs gewitleasan cy-
             <lb n="2"/> ricweardes muð clypian ⁊ cweþan. <persName>Isac</persName> me ut drifeð. 
 <lb n="3"/> Witodlice nyste man ær hwylcum naman se ælþeodiga
@@ -953,8 +952,8 @@
 <lb n="28"/> be. ne byð se beforan Gode munuc. ⁊ swa se halga man
 <lb n="29"/> forhtode þæt he forlure þa gymelæste his þearfednesse.
 <lb n="30"/> swa þa welegan ⁊ þa gitseras gewuniað healdan heora
-<!-- #######################################  folio 79r ####################################### -->
-<pb n="79r" xml:id="OD_fol79r"/>
+<!-- #######################################  folio 79v ####################################### -->
+<pb n="79v" xml:id="OD_fol79v"/>
 <lb n="1"/> weorðendan welan þæt hi þa ne forleosan ⁊ þæt þær feorr ⁊
 <lb n="2"/> wide eardiendum his lif wearð þearle cuþ ægþer ge mid
 <lb n="3"/> mycclum wundra weorcum ge eac mid witedomes gaste. Witodlice 
@@ -985,8 +984,8 @@
 <lb n="28"/> þa het he heora æghwylcum gesomnian his byrþene wyrta. ⁊ þa
 <lb n="29"/> wæs swa geworden þæt þa þe þider comon to þam wyrtgearde
 <lb n="30"/> to þon þæt hi þær hwæthugu forstælon. hi æfter þon cyrdon buton 
-<!-- #######################################  folio 79v ####################################### -->
-<pb n="79v" xml:id="OD_fol79v"/>
+<!-- #######################################  folio 80r ####################################### -->
+<pb n="80r" xml:id="OD_fol80r"/>
 <lb n="1"/>  þeofte mid ðære mede heora gewinnes mid bletsunge ⁊ mid 
 <lb n="2"/> gyfum gefylgde. Eac swylce on sume tide to him genealæhton 
 <lb n="3"/> sume ælþeodige men ⁊ his mildheortnesse bædon oferhan-
@@ -1017,8 +1016,8 @@
 <lb n="28"/> geunrotsod þeah þe he aræfde halwendlic wite hwæþre
 <lb n="29"/> he bær his agene scame. ⁊ þa wæs eft cyrrende to þære
 <lb n="30"/> spyrtan ⁊ wærlice hawode. ⁊ geseah þæt seo nædre þær in wæs
-<!-- #######################################  folio 80r ####################################### -->
-            <pb n="80r" xml:id="OD_fol80r"/>
+<!-- #######################################  folio 80v ####################################### -->
+            <pb n="80v" xml:id="OD_fol80v"/>
    
 <lb n="1"/> swa swa se Godes wer him ær sæde. Witodlice þa þa se Godes 
 <lb n="2"/> man unwiðmetedlice wæs geweorðod mid forhæfdnesse
@@ -1050,8 +1049,8 @@
 <lb n="28"/> cynnum. Forþon þe full swiðe oft swa swa hit gecweden wæs
 <lb n="29"/> eac swylce he lyfeð sumum mannum sume tælwyrðe wisan 
 <lb n="30"/> þam þe he ær sealde þa mycclan gife þæt hi symble habban
-<!-- #######################################  folio 80v ####################################### -->
-<pb n="80v" xml:id="OD_fol80v"/>
+<!-- #######################################  folio 81r ####################################### -->
+<pb n="81r" xml:id="OD_fol81r"/>
 <lb n="1"/> hwæthugu þæs þe hi magon wið winnan ⁊ feohtan
 <lb n="2"/> ⁊ hi hyra mod upp ne aræran ⁊ ne gylpan þæs þe
 <lb n="3"/> hi habban þeah þe hi habban heora feond in þam mycclum
@@ -1082,8 +1081,8 @@
 <lb n="28"/> lande þurh þa sægene þæs arwyrðan weres ⁊ mæsse-
 <lb n="29"/> preostes þam wæs nama <persName>Sanctulus</persName>. be þæs wordum þu
 <lb n="30"/> naht ne tweost forðon þe þu geare canst his lif ⁊ ge-
-<!-- #######################################  folio 81r ####################################### -->
-<pb n="81r" xml:id="OD_fol81r"/>
+<!-- #######################################  folio 81v ####################################### -->
+<pb n="81v" xml:id="OD_fol81v"/>
 <lb n="1"/> leafan. Eac swylce in ða ylcan tid eardodon. II.
             <lb n="2"/> <placeName>Nursige</placeName> þære mægðe in life ⁊ in hade haliges droh-
 <lb n="3"/> toðes. þara wæs oþer gehaten <persName>Euticius</persName>. oþer wæs ge-
@@ -1114,8 +1113,8 @@
 <lb n="28"/> nedon feower scep oððe. V. æt his cytan ⁊ þa nyste he 
 <lb n="29"/> hwa hi heolde. He þa bebead þam ylcan beran ⁊ cwæð. gang 
 <lb n="30"/> ⁊ drif þa sceap in heora læse. ⁊ cum eft to middes dæges 
-<!-- #######################################  folio 81v ###################################### -->
-<pb n="81v" xml:id="OD_fol81v"/>
+<!-- #######################################  folio 82r ###################################### -->
+<pb n="82r" xml:id="OD_fol82r"/>
 <lb n="1"/> ham. Þa witodlice ongan þis unablinnend-
 <lb n="2"/> lice beon gedon. þæt is þonne se heordelice gyming seo ðe 
 <lb n="3"/> to þam beran wæs beþancenu. ⁊ hyt þa þæt wilde deor swa
@@ -1146,8 +1145,8 @@
 <lb n="28"/> geacsode fram hwam he ofslagen wæs. ⁊ sealde hine sylfne
 <lb n="29"/> in wop ⁊ in cwiðnesse ⁊ ma weop þara broðra nið þonne
 <lb n="30"/> þæs beran deað. Þone þa se arwyrða wer <persName>Euticius</persName> 
-   <!-- #######################################  folio 82r ####################################### -->
-   <pb n="82r" xml:id="OD_fol82r"/>
+   <!-- #######################################  folio 82v ####################################### -->
+   <pb n="82v" xml:id="OD_fol82v"/>
    <lb n="1"/> to him gelaðode ⁊ hine ongan frefrian ac se 
    <lb n="2"/> ylca drihtnes wer <persName>Florentius</persName> beforan þam broþrum mid
    <lb n="3"/> þære uneþnysse swa myccles sares onæled biddende
@@ -1178,8 +1177,8 @@
    <lb n="28"/> hit sceoteð forð þurh his tungan gymeleasnesse. 
    <lb n="29"/> <persName>Gregorius</persName> him andswarode. Gehyr þis <persName>Petrus</persName> nu mid þam þearlwisan 
    <lb n="30"/> deman þæt unnytte word byð getæled þeah þe hit butan
-   <!-- #######################################  folio 82v ####################################### -->
-   <pb n="82v" xml:id="OD_fol82v"/>
+   <!-- #######################################  folio 83r ####################################### -->
+   <pb n="83r" xml:id="OD_fol83r"/>
    <lb n="1"/> niðe gecweden sy. ⁊ swa myccle ma þæt scyldige word byð ge-
    <lb n="2"/> witnod gif hit mid feondscipe byþ gesprecen. Ac geþenc 
    <lb n="3"/> forþon nu þæt word byð wites wyrðe þe butan niðe byþ
@@ -1210,8 +1209,8 @@
    <lb n="28"/> þæt wære þæt symble his muðe wæs swa swiðe neah se
    <lb n="29"/> ælmihtiga God. <persName>Gregorius</persName> him andswarode. swyðe þyhð la
    <lb n="30"/> 
-   <!-- #######################################  folio 83r ####################################### -->
-   <pb n="83r" xml:id="OD_fol83r"/>
+   <!-- #######################################  folio 83v ####################################### -->
+   <pb n="83v" xml:id="OD_fol83v"/>
    <lb n="1"/> <persName>Petrus</persName> seo clænnes ⁊ fremað seo bilwitnes þære mænniscan 
    <lb n="2"/> heortan mid þæs ælmihtigan Godes þære synderlican
    <lb n="3"/> clænnesse ⁊ his þære bilwitan gecynde. Witodlice þæt ilce 
@@ -1242,8 +1241,8 @@
    <lb n="28"/> spræce. Be þon hit is awriten. se þe onweg acyrreð his 
    <lb n="29"/> eare þæt he ne gehyre þa Godes. æ. þæs ben byð onscuni-
    <lb n="30"/> 
-   <!-- #######################################  folio 83v ####################################### -->
-   <pb n="83v" xml:id="OD_fol83v"/>
+   <!-- #######################################  folio 84r ####################################### -->
+   <pb n="84r" xml:id="OD_fol84r"/>
    <lb n="1"/> endlic mid Gode. Hwylc wundor is þæt forðon þeh þe we 
    <lb n="2"/> biddende syn late fram drihtne gehyrede þe drihtnes
    <lb n="3"/> bebod oððe late oþþe na gehyran wyllað. Ac hwilc 
@@ -1274,8 +1273,8 @@
             <lb n="28"/> ancerlif in <placeName>Marsico</placeName> þam munte ⁊ þær wæs manig gær
    <lb n="29"/> ana belocen in þam nearwestan scræfe. þone cuðon
    <lb n="30"/> manega ura geferena ⁊ eac full oft wæron andwearde
-   <!-- #######################################  folio 84r ####################################### -->
-   <pb n="84r" xml:id="OD_fol84r"/>
+   <!-- #######################################  folio 84v ####################################### -->
+   <pb n="84v" xml:id="OD_fol84v"/>
    <lb n="1"/> his þeawum ⁊ dædum. In þam eac fela þinga ic ongæt fram 
    <lb n="2"/> minum foregengan þære eadigan gemynde papan 
             <lb n="3"/> <persName>Pelagio</persName>. ⁊ eac swa me sædon oþre æfæste weras. 
@@ -1306,8 +1305,8 @@
    <lb n="28"/> þed mid swa mycelre strengðe þæs halgan weres.
    <lb n="29"/> ⁊ heo þa seo nædre sænde hi selfe in forspildnesse
    <lb n="30"/> geond þa widgellan muntes. ⁊ forbærnde ealle þa 
-   <!-- #######################################  folio 84v ####################################### -->
-   <pb n="84v" xml:id="OD_fol84v"/>
+   <!-- #######################################  folio 85r ####################################### -->
+   <pb n="85r" xml:id="OD_fol85r"/>
    <lb n="1"/> treowa ðære stowe mid þy ligge þe of hire eode. ⁊ þa 
    <lb n="2"/> on ðære wisan þe heo forbærnde ealle þa sidan þæs
    <lb n="3"/> muntes wæs ongyten þæt heo wæs genyded fram þam
@@ -1338,8 +1337,8 @@
    <lb n="28"/> þysum halgan were. ⁊ seo stig wæs swiðe neara on ðære 
    <lb n="29"/> widgellan sidan þæs muntes. seo gelædde þa onetten-
    <lb n="30"/> dan men to ðæs arwyrðan weres cytan. Þa gelamp hit
-<!-- #######################################  folio 85r ####################################### -->
-<pb n="85r" xml:id="OD_fol85r"/>
+<!-- #######################################  folio 85v ####################################### -->
+<pb n="85v" xml:id="OD_fol85v"/>
 <lb n="1"/> þæt an lytel cniht eode upp unwærlice on ðære nearwan 
 <lb n="2"/> stige gemang oðrum mannum. ⁊ þa he feoll of ðam ylcan munte
 <lb n="3"/> oð þæt he gehreas in ða dene. seo wæs under þam munte swa
@@ -1370,8 +1369,8 @@
 <lb n="28"/> eode þæt he mihte of ðam munte alucan þæt hreosende clif
 <lb n="29"/> ⁊ þonne se Godes þeow ofer þæt eardode sorhleas in his ge-
 <lb n="30"/> bedhuse. ⁊ þa se Godes wer nænigra þinga him hyran 
-<!-- #######################################  folio 85v ####################################### -->
-<pb n="85v" xml:id="OD_fol85v"/>
+<!-- #######################################  folio 86r ####################################### -->
+<pb n="86r" xml:id="OD_fol86r"/>
 <lb n="1"/> nolde to þon þe he hine bæd þæt he dyde. ac he hine sylfne 
 <lb n="2"/> ahydde in deogolran stowe þæs scræfes. ⁊ ne þuhte nanum
 <lb n="3"/> men þæs tweo þæt gif þæt stanclif feolle. þæt hit ne ofsloge
@@ -1402,8 +1401,8 @@
 <lb n="28"/> hraðe þone fotcops. ⁊ swa þeh æfter þan he ne stop mid
 <lb n="29"/> þy unbundenum fet ofer þa stowe þe he hine ær wenede 
 <lb n="30"/> þa þa he gebunden wæs. ac hine sylfne beeode swa him
-<!-- #######################################  folio 86r ####################################### -->
-<pb n="86r" xml:id="OD_fol86r"/>
+<!-- #######################################  folio 86v####################################### -->
+<pb n="86v" xml:id="OD_fol86v"/>
 <lb n="1"/> þearf wæs butan racenteage in swa mycclum landsticce 
 <lb n="2"/> ungebunden. swa he ær gebunden on wunode. ⁊ mid þy 
 <lb n="3"/> he ongan eac swylce habban geongran æfter þon þe
@@ -1434,8 +1433,8 @@
 <lb n="28"/> munuchad. ⁊ þone mid fægrum þeawum gefylde. Witodlice 
 <lb n="29"/> þes hæfde him to gewunan þæt he ælce gære wolde faran
             <lb n="30"/> of <placeName>Argentario</placeName> þam munte to sancte <persName>Petres</persName> cyrican þæs 
-<!-- #######################################  folio 86v ####################################### -->
-<pb n="86v" xml:id="OD_fol86v"/>
+<!-- #######################################  folio 87r ####################################### -->
+<pb n="87r" xml:id="OD_fol87r"/>
 <lb n="1"/> apostol. ⁊ þonne symble gebeah he to þance rihtre cumlið-
             <lb n="2"/> nesse to <persName>Quadragesimo</persName> þam subdiacone swa swa he
 <lb n="3"/> sylfa me sæde. Þa sume dæge hit gelamp þæt he com to þæs 
@@ -1466,8 +1465,8 @@
 <lb n="28"/> sona. ⁊ þa forðon þe he bær on his 
 <lb n="29"/> swiðran hand þæt gesomnode dust he genam aweg mid his 
 <lb n="30"/> wynstran hand þone wrigels mid þy wæs bewrigen 
-<!-- #######################################  folio 87r ####################################### -->
-<pb n="87r" xml:id="OD_fol87r"/>
+<!-- #######################################  folio 87v ####################################### -->
+<pb n="87v" xml:id="OD_fol87v"/>
 <lb n="1"/> se andwlita þæs forðferdan mannes. ⁊ þa þa þæt wif geseah 
 <lb n="2"/> þæt swa gedon heo ongan swiðlice wiðcweðan ⁊ wundrian
 <lb n="3"/> hwæt he don wolde. ⁊ he þa onweg adonum þam wrigelse 
@@ -1498,8 +1497,8 @@
 <lb n="28"/> weorðað we sceolan nyde þæt gelyfan.
 <lb n="29"/> gif we þonne sceawiaþ ⁊ gehycgað þa ungesewenlican 
 <lb n="30"/> butan tweon us byþ cuð þæt þæt is mare wundor þæt man
-<!-- #######################################  folio 87v ####################################### -->
-<pb n="87v" xml:id="OD_fol87v"/>
+<!-- #######################################  folio 88r ####################################### -->
+<pb n="88r" xml:id="OD_fol88r"/>
 <lb n="1"/>  mid þy worde þære halgan lare. ⁊ mid þy fultume 
 <lb n="2"/> haligra gebeda þone synfullan man gecyrre fram his
 <lb n="3"/> synnum þonne man þone deadan lichaman eft awæcce. 
@@ -1530,8 +1529,8 @@
 <lb n="28"/> ðæs apostolican hades. ac swa þeh his sylfes wyllan he 
 <lb n="29"/> wæs hleotend in ðam midle <persName>Cristes</persName> þegna. ⁊ he wæs ge-
 <lb n="30"/> læded to þæs þriddan heofones deogolnessum. ⁊ þonne 
-<!-- #######################################  folio 88r ####################################### -->
-<pb n="88r" xml:id="OD_fol88r"/>
+<!-- #######################################  folio 88v ####################################### -->
+<pb n="88v" xml:id="OD_fol88v"/>
 <lb n="1"/> hraðe he bigde his modes eage þurh ymbhigd ⁊ ead-
 <lb n="2"/> modnesse to gerihtanne ⁊ to gesettanne þone gemanan
 <lb n="3"/> gesinsceppendra manna ⁊ he þa þus cwæð agylde se
@@ -1562,8 +1561,8 @@
 <lb n="28"/> me sæde manig þing þe ic sylf ær nyste. Witodlice 
 <lb n="29"/> æt þises sage ic gehyrde ⁊ geleornode þæt sum man wæs 
 <lb n="30"/> in <placeName>Suðlangbeardna</placeName> lande binnan feowertigum mila 
-<!-- #######################################  folio 88v ####################################### -->
-<pb n="88v" xml:id="OD_fol88v"/>
+<!-- #######################################  folio 89r ####################################### -->
+<pb n="89r" xml:id="OD_fol89r"/>
             <lb n="1"/> of <placeName>Romebyrig</placeName>. þam wæs nama <persName>Benedictus</persName>. Se wæs wintrum geong.
 <lb n="2"/> ⁊ on his þeawum eald ⁊ gedefe. ⁊ he hine sylfne geteah 
 <lb n="3"/> ⁊ geheold stranglice ⁊ fæstlice in ðam regole þæs halgan 
@@ -1594,8 +1593,8 @@
 <lb n="28"/> on þa ylcan tid þæt se lig gehæfde his mægn in þara riht-
 <lb n="29"/> wisra cnihta þegnunge to heora frofre ⁊ fultume ⁊ hit
 <lb n="30"/> habban ne mihte to heora wite ⁊ tintregum. 
-<!-- #######################################  folio 89r ####################################### -->
-<pb n="89r" xml:id="OD_fol89r"/>
+<!-- #######################################  folio 89v ####################################### -->
+<pb n="89v" xml:id="OD_fol89v"/>
 <lb n="1"/> Þisum ealdum wundrum gelamp in urum dagum gelic wise þeh þe 
             <lb n="2"/> hit of ungelicre gesceafte gewurde. Soðlice nu niwan <persName>Iohannes</persName> 
             <lb n="3"/> se gerefa me cyþde mid his agenre sægne þæt <persName>Pronulphus</persName> 
@@ -1626,8 +1625,8 @@
 <lb n="28"/> mihte flowan swa wæter. ac hit stod beforan þære dura 
 <lb n="29"/> to ðon þæt hit cyðde eallum þam mannum þa geearnunge þæs
 <lb n="30"/> halgan martyres. Semninges hit wæs wæter to fultume. ⁊ to 
-<!-- #######################################  folio 89v ####################################### -->
-<pb n="89v" xml:id="OD_fol89v"/>
+<!-- #######################################  folio 90r ####################################### -->
+<pb n="90r" xml:id="OD_fol90r"/>
 <lb n="1"/> helpe þam mannum þe in ðære cyrican wæron ⁊ swylce hit
 <lb n="2"/> wæter nære in ða stowe to farane. Forþon ic sæde ær þæt 
 <lb n="3"/> þis nære ungelic þam ealdan wundre þæs ær gesædan
@@ -1658,8 +1657,8 @@
 <lb n="28"/> him hyrde þa scos of to donne. Ac sona swa þæt se mæsse-
 <lb n="29"/> preost geseah he aforhtode swiþlice. ⁊ mid 
 <lb n="30"/> mycclum stefnum ongan clypian ⁊ þus cweðan. gewit
-<!-- #######################################  folio 90r ####################################### -->
-<pb n="90r" xml:id="OD_fol90r"/>
+<!-- #######################################  folio 90v ####################################### -->
+<pb n="90v" xml:id="OD_fol90v"/>
 <lb n="1"/> yrming fram me gewit. Ne spræc ic na to ðe ac to minum 
 <lb n="2"/> þeowetlinge. Sona swa se deofol eft his stefne gehyrde
 <lb n="3"/> he gewat onweg þanon. ⁊ swa þa gewunedon þa þwangas
@@ -1690,8 +1689,8 @@
 <lb n="28"/> lifes. For ðære wisan þa gewearð þæt se fæder hi bedælde 
 <lb n="29"/> his speda ⁊ naht elles hire ne sealde buton. VI. yntsan 
 <lb n="30"/> anre æhte. Þa soðlice mid hire bysene wæron forð
-<!-- #######################################  folio 90v ####################################### -->
-<pb n="90v" xml:id="OD_fol90v"/>
+<!-- #######################################  folio 91r ####################################### -->
+<pb n="91r" xml:id="OD_fol91r"/>
 <lb n="1"/> gecigde manige oðre æþeles cynnes fæmnan ⁊ ongunnon 
 <lb n="2"/> beon to hire gecyrde ⁊ þeowian ðam ælmihtigan drihtne 
 <lb n="3"/> mid heora þy gehalgodan mægðhade. Þa sume dæge 
@@ -1722,8 +1721,8 @@
 <lb n="28"/> ra swyna heap. ⁊ he þa se hælend þone heap adraf of 
 <lb n="29"/> þam mæn ⁊ heom forgæf þæt hi eodon in ða swyn ⁊ gebrohton 
 <lb n="30"/> þa in þæs sæs neowolnesse. For ðære wisan mæg beon
-<!-- #######################################  folio 91r ####################################### -->
-<pb n="91r" xml:id="OD_fol91r"/>
+<!-- #######################################  folio 91v ####################################### -->
+<pb n="91v" xml:id="OD_fol91v"/>
 <lb n="1"/> oncnawen þæt butan þæs ælmihtigan Godes gife ⁊ leafe se 
 <lb n="2"/> awyrgda gast næfð nænigne mihte wið þam men se þe ne 
 <lb n="3"/> mihte in þa swyn gan buton him alyfed wære. Forðon us is 
@@ -1754,8 +1753,8 @@
 <lb n="28"/> bebyrged wæs. þa sæmninga he cleofode on ðære eorðan 
 <lb n="29"/> ⁊ ne mihte na onstyrian his fet to ganne. Ac he asette þone 
 <lb n="30"/> weðer him of ðam swyran. ⁊ hine wolde forlætan. ac he ne 
-<!-- #######################################  folio 91v ####################################### -->
-<pb n="91v" xml:id="OD_fol91v"/>
+<!-- #######################################  folio 92r ####################################### -->
+<pb n="92r" xml:id="OD_fol92r"/>
 <lb n="1"/> mihte na his hand him to ateon fram þam weðere. Þa ongan 
 <lb n="2"/> he þær standan earm mid his hereðe. swa scyldig ⁊ swa ge-
 <lb n="3"/> bunden. ⁊ he wolde þone weðer forlætan ac he ne mihte. 
@@ -1786,8 +1785,8 @@
 <lb n="28"/> in Godes ege. he gedyde þæt hine man hadode to mæsse.preoste. 
 <lb n="29"/> Þa sona æfter his hadunga him wæs getacnod þurh sume 
 <lb n="30"/> onwrignesse þæt hit næs naht feor his ænde. Þa bæd he
-<!-- #######################################  folio 92r ####################################### -->
-<pb n="92r" xml:id="OD_fol92r"/>
+<!-- #######################################  folio 92v ####################################### -->
+<pb n="92v" xml:id="OD_fol92v"/>
 <lb n="1"/> æt þæs mynstres hlaforde þæt he him alyfde hwærhugu
 <lb n="2"/> þæt he moste byrgene gegearwian. Þa andswarode he him ⁊ cwæð.
 <lb n="3"/> witodlice her þær ic sylfa sceall beon sweltende. Ac 
@@ -1818,8 +1817,8 @@
 <lb n="28"/> heora ⁊ cwæð. fæder hwær is nu þæt þu ær sædest þæt þeos 
 <lb n="29"/> þruh mihte inc begen ymbfon. Þa færinga æfter þæs 
 <lb n="30"/> stefne swa swa ealle men gesawon se lichama þæs 
-<!-- #######################################  folio 92v ####################################### -->
-<pb n="92v" xml:id="OD_fol92v"/>
+<!-- #######################################  folio 93r ####################################### -->
+<pb n="93r" xml:id="OD_fol93r"/>
 <lb n="1"/> abbudes þe þær ær bebyrged wæs ⁊ læg upweardes
 <lb n="2"/> he hine sylfne cyrde on oþre sidan. ⁊ æmtige stowe þære 
 <lb n="3"/> licþruh gegearwode þam mæssepreoste his lichaman 
@@ -1850,8 +1849,8 @@
 <lb n="28"/> he þæt symble sylf geseon wolde butan forlætednesse 
 <lb n="29"/> to mede heora edleanes. <persName>Petrus</persName> cwæð. ne þinceð me na þæt 
 <lb n="30"/> wundorlic þæt se apostol gesewen wæs. ac þæt me þynceð 
-<!-- #######################################  folio 93r ####################################### -->
-<pb n="93r" xml:id="OD_fol93r"/>
+<!-- #######################################  folio 93v ####################################### -->
+<pb n="93v" xml:id="OD_fol93v"/>
 <lb n="1"/> wundorlic þæt þes se hal wæs þa þa he hine geseah æfter þon
 <lb n="2"/> wæs mettrum. <persName>Gregorius</persName> him andswarode. to hwan wundrast þu Pe-
 <lb n="3"/> trus for þissere wisan. Cwyst þu þæt þu ne gemyne þæt. þa þa 
@@ -1882,8 +1881,8 @@
 <lb n="28"/> se <persName>Abundius</persName> wæs þa ongan heo hider ⁊ þider dragan hi selfe
 <lb n="29"/> geond þa cyrican ⁊ sohte hwylc <persName>Abundius</persName> wære. Þa semninga 
 <lb n="30"/> com hire ongæn se ylca þe heo sohte þa cwæð heo to him: fæder 
-<!-- #######################################  folio 93v ####################################### -->
-<pb n="93v" xml:id="OD_fol93v"/>
+<!-- #######################################  folio 94r ####################################### -->
+<pb n="94r" xml:id="OD_fol94r"/>
 <lb n="1"/> ic þe bidde þæt þu me sæcge hwylc sy <persName>Abundius</persName> þes cyricweard.
 <lb n="2"/> he andswarode hire ⁊ cwæð. ic hit eom. þa cwæð heo to him. ure hyrde 
 <lb n="3"/> ⁊ ure fosterfæder me sænde to ðe sanctus <persName>Petrus</persName> to ðon þæt þu sceoldest
@@ -1915,8 +1914,8 @@
             <lb n="29"/> buton he eadmod wære. Soþlice full oft hit gelamp þæt of 
             
 <lb n="30"/> þam neahwuda comon beran ⁊ ongunnon etan his beon. 
-<!-- #######################################  folio 94r ####################################### -->
-<pb n="94r" xml:id="OD_fol94r"/>
+<!-- #######################################  folio 94v ####################################### -->
+<pb n="94v" xml:id="OD_fol94v"/>
 <lb n="1"/> ⁊ þa þa he ongeat þa beran he sloh hi ⁊ þærsc mid þære 
 <lb n="2"/> telgan þe he gewunode þæt he bær him on handa. For ðæs 
 <lb n="3"/> swinglan þa unhyran deor grymetedon. ⁊ hwæðre 
@@ -1947,8 +1946,8 @@
 <lb n="28"/> gewuna wæs þæt he agyltendum mæn dyde. Ac he geworhte 
 <lb n="29"/> his lac ⁊ asende þa onmang oþra manna lacum ⁊ wolde
 <lb n="30"/> þæt se halga wer huru his lace onfengce. þeh þe he hit 
-<!-- #######################################  folio 94v ####################################### -->
-<pb n="94v" xml:id="OD_fol94v"/>
+<!-- #######################################  folio 95r ####################################### -->
+<pb n="95r" xml:id="OD_fol95r"/>
 <lb n="1"/> nyste ac hit gelamp þæt ealle þa lac wæron beforan him gebrohte
 <lb n="2"/> ⁊ he þa se drihtnes wer sæt lange swigende ⁊ on sundron 
 <lb n="3"/> sceawode. ælc þara þe þær broht wæs. He geceas ⁊ alæs 
@@ -1979,8 +1978,8 @@
 <lb n="28"/> tacnað forþon <persName>Petrus</persName> þæs calices nama buton þære 
             <lb n="29"/> þrowunge drync. Hwæt us is cuþ butan tweon þæt <persName>Iacob</persName> se 
             <lb n="30"/> apostol deað geþrowode in ehtnesse. ⁊ <persName>Iohannes</persName> his broður
-<!-- #######################################  folio 95r ####################################### -->
-<pb n="95r" xml:id="OD_fol95r"/>
+<!-- #######################################  folio 95v ####################################### -->
+<pb n="95v" xml:id="OD_fol95v"/>
 <lb n="1"/> gereste in godes folces sybbe. ⁊ swa ðeah ungetweogendlice 
 <lb n="2"/> heo beon mæg ongyten soð martyr butan openlicre þro-
 <lb n="3"/> wunge. forþon heo to þam gecweden wæs þæt he þrowian wolde 
@@ -2011,8 +2010,8 @@
 <lb n="28"/> þæt flæsc þe hi heora feondgyldum onsægd hæfdon. ⁊ hi ða
 <lb n="29"/> eallinga ma gecuron ⁊ gelufedon þæt ece lif þonne þis andwearde. 
 <lb n="30"/> ⁊ gewitendlice hi gestodon geleaffullice ⁊ samod in heora 
-<!-- #######################################  folio 95v ####################################### -->
-<pb n="95v" xml:id="OD_fol95v"/>
+<!-- #######################################  folio 96r ####################################### -->
+<pb n="96r" xml:id="OD_fol96r"/>
 <lb n="1"/> arodnesse ealle wæron acwealde hwæt cweðað we forðon
 <lb n="2"/> hwæt þas wæron buton þære soðfæstnesse þroweras. þa 
 <lb n="3"/> gecuron þæt hi heora lif geendedon ⁊ wæron acwealde mid sweor-
@@ -2043,8 +2042,8 @@
 <lb n="28"/> eallinga to bysne healdan wyllan. Ac we witon þonne seo tid 
 <lb n="29"/> open cymeð þære ehtnesse þæt full manige men magon under-
 <lb n="30"/> fon þone þrowothad þa þe ær þohton in sibbe þæt hi wæron 
-<!-- #######################################  folio 96r ####################################### -->
-<pb n="96r" xml:id="OD_fol96r"/>
+<!-- #######################################  folio 96v ####################################### -->
+<pb n="96v" xml:id="OD_fol96v"/>
 <lb n="1"/> forsægenlice. Swa eac full oft þa gefeallað fore fyrhto heora 
 <lb n="2"/> tyddernesse þe ær in sibbe wæron gelyfde þæt hi mihton strang-
 <lb n="3"/> lice standan wiþ heora feondum. Ac bealdlice we andettað
@@ -2075,8 +2074,8 @@
 <lb n="28"/> hyrde. he arn swiðe ofstlice ⁊ þa cyrican beleac ⁊ mid 
 <lb n="29"/> scyttelum besceat ⁊ gefæstnode. ⁊ þa þa hit æfen wæs he 
 <lb n="30"/> adwæscte ealle þa leohtfatu þære cyrican ⁊ hine sylfne
-<!-- #######################################  folio 96v ####################################### -->
-<pb n="96v" xml:id="OD_fol96v"/>
+<!-- #######################################  folio 97r ####################################### -->
+<pb n="97r" xml:id="OD_fol97r"/>
 <lb n="1"/> ahydde on sumre deogelre stowe. Þa soðlice in ða dagunge
             <lb n="2"/> þa þa hit ærest leohtode. <persName>Arrianus</persName> se gedwolbiscop com þær 
 <lb n="3"/> mid gesomnodum manna mænigenu ⁊ wæs swa gearu swa he 
@@ -2107,8 +2106,8 @@
 <lb n="28"/> wæs þæra arrianiscra gedwolmanna in þam lande þys-
             <lb n="29"/> sere burge þe <placeName>Subura</placeName> is haten. seo wunode belocenu oð 
 <lb n="30"/> nu for twam gærum. Þa gelicode us þæt man sceolde hi gehalgian 
-<!-- #######################################  folio 97r ####################################### -->
-<pb n="97r" xml:id="OD_fol97r"/>
+<!-- #######################################  folio 97v ####################################### -->
+<pb n="97v" xml:id="OD_fol97v"/>
 <lb n="1"/> in þam healican geleafan. ⁊ þær inne gelædan þara haligra 
             <lb n="2"/> reliqias sancte <persName>Sebastianes</persName> ⁊ sancte <persName>Agathen</persName> þære halgan fæmnan. 
 <lb n="3"/> Þa wæs þæt hus gedon þæt þa folcu comon þyder mid mycelre 
@@ -2139,8 +2138,8 @@
 <lb n="28"/> æfter feawum dagum on mycelre smyltnesse þære lyfte þæt ofer 
 <lb n="29"/> þære ylcan cyrican weofod com wolcen of heofonum. ⁊ hit
 <lb n="30"/> oferwreah mid his wrigelse ⁊ eac gefylde ealle þa cy-
-<!-- #######################################  folio 97v ####################################### -->
-<pb n="97v" xml:id="OD_fol97v"/>
+<!-- #######################################  folio 98r ####################################### -->
+<pb n="98r" xml:id="OD_fol98r"/>
 <lb n="1"/> rican mid swa mycclum ege ⁊ wynsumnesse swetes stences
 <lb n="2"/> þæt nan man ne dorste þider in gan þeah þa dura opene 
 <lb n="3"/> wæron ⁊ þa sacerdas. ⁊ þa cyricweardas ge eac þa þe þider 
@@ -2171,8 +2170,8 @@
             <lb n="28"/> ⁊ swa þanon þurh <placeName>Affricanaland</placeName> eft hweorfan to
             <lb n="29"/> <placeName>Suðlangbeardum</placeName>. <persName>Petrus</persName> cwæð far swa hwider swa þu wille ic 
 <lb n="30"/> beo bliðe mid þe gelæded. ⁊ eft mid þe bliðe gecyrred. 
-<!-- #######################################  folio 98r ####################################### -->
-<pb n="98r" xml:id="OD_fol98r"/>
+<!-- #######################################  folio 98v ####################################### -->
+<pb n="98v" xml:id="OD_fol98v"/>
 <lb n="1"/> []regorius him andswarode. þæs þe we oncneowon of manigra manna 
             <lb n="2"/> sægene þe comon of <placeName>Ispanialandum</placeName>. nu niwan hit gelamp. 
             <lb n="3"/> þæt <persName>Erminigildus</persName> se cyning <persName>Leowigildes</persName> sunu þæs cyninges 
@@ -2203,8 +2202,8 @@
 <lb n="28"/> þonne þurh þæt geearnode
 <lb n="29"/> þæt he eft gehwurfe to his fæder gife ⁊ freondscipe. Ac þa 
             <lb n="30"/> se wer þe wæs Gode gehalgod gehyspte <persName>Arrianum</persName> þone ge-
-<!-- #######################################  folio 98v ####################################### -->
-<pb n="98v" xml:id="OD_fol98v"/>
+<!-- #######################################  folio 99r ####################################### -->
+<pb n="99r" xml:id="OD_fol99r"/>
 <lb n="1"/> dwolbiscop þe þider com ⁊ hine geleahtrode swa swa hit ge-
 <lb n="2"/> byrede. ⁊ his treowleasnesse mid worda þywungum fram 
 <lb n="3"/> him sylfum adraf. forþon þeh þe he læge uton on lichaman 
@@ -2235,9 +2234,9 @@
 <lb n="28"/> cumendre mettrymnesse he genealæhte his ænde. ⁊ 
             <lb n="29"/> wilnode þæt he befæste Leandra þam biscope <persName>Recharedum</persName> þone 
 <lb n="30"/> cyning his oðerne sunu þone he on his agnum gedwolan 
-<!-- #######################################  folio 99r ####################################### -->
-<pb n="99r" xml:id="OD_fol99r"/>
-<lb n="1"/> læfde. ⁊ eac þone biscop he oft ær swiðlice swæncte. ⁊ þa hine
+<!-- #######################################  folio 99v ####################################### -->
+<pb n="99v" xml:id="OD_fol99v"/>
+<lb n="1"/> lærde. ⁊ eac þone biscop he oft ær swiðlice swæncte. ⁊ þa hine
 <lb n="2"/> bæd þæt he in þam his oðrum suna mid his larum swylce trym-
 <lb n="3"/> nesse gedyde swylce he his breðer ær gedyde. Þa ge-
 <lb n="4"/> fylledre þære fæstinge se ealda cyning wæs forðfe-
@@ -2267,8 +2266,8 @@
             <lb n="28"/> <persName>Gregorius</persName> him andswarode. Eac hit gelamp in <persName>Iustianes</persName> tidum 
             <lb n="29"/> þæs <persName>Caseres</persName> þa þa in þam suðlandum swiþlice wedde ⁊ wilnode 
 <lb n="30"/> seo arrianisce ehtnes seo wæs upp aræred fram þam un-
-<!-- #######################################  folio 99v ####################################### -->
-<pb n="99v" xml:id="OD_fol99v"/>
+<!-- #######################################  folio 100r ####################################### -->
+<pb n="100r" xml:id="OD_fol100r"/>
             <lb n="1"/> geleaffullum <orgName>Wandalum</orgName> wið rihtgeleaffullra manna life. 
 <lb n="2"/> þa sume þa biscopas wiðstodon stranglice ⁊ scyldon ⁊ la-
 <lb n="3"/> dedon þa soðfæstnesse oþ þæt hi wæron to þæs folces andweard-
@@ -2299,8 +2298,8 @@
 <lb n="28"/> men for þearfe ⁊ for spræce þyssere cyrcan. Þa gemette 
 <lb n="29"/> ic þær sumne biscop ealdne witan se cyðde me þæt he gesawe 
 <lb n="30"/> heora muðas sprecende butan tungan. ⁊ þæt hi cleopodon
-<!-- #######################################  folio 100r ####################################### -->
-<pb n="100r" xml:id="OD_fol100r"/>
+<!-- #######################################  folio 100v ####################################### -->
+<pb n="100v" xml:id="OD_fol100v"/>
 <lb n="1"/> þus geonigendum muðe ⁊ cwædon. geseoh nu þæt we nabbað nane
 <lb n="2"/> tungan ⁊ swa þeh sprecað. Þa wæs þæt gesawen fram þam man-
 <lb n="3"/> num þe his locodon þæt þæt wæs soð þæt hi sædon þæt onweg acorfenum 
@@ -2331,8 +2330,8 @@
 <lb n="28"/> geandette swiþe bilwitlice þa þa he wæs fram me geac-
 <lb n="29"/> sod. He sæde þæt he sume dæge wære on sumum siþfate ⁊ þa 
 <lb n="30"/> wæs hit æt æfenne. ⁊ he næfde nænige stowe þæt he
-<!-- #######################################  folio 100v ####################################### -->
-<pb n="100v" xml:id="OD_fol100v"/>
+<!-- #######################################  folio 101r ####################################### -->
+<pb n="101r" xml:id="OD_fol101r"/>
 <lb n="1"/> mihte to gan. Þa becom he in þara fæmnena mynstre. in þam 
 <lb n="2"/> wæs sum lytel cniht þone gewunode se awyrgda gast ælce 
 <lb n="3"/> niht swæncan. Ac þa halgan nunfæmnan to þon onfengon 
@@ -2364,8 +2363,8 @@
 <lb n="29"/> sylfne in mycelne heaf mid þy hi ongunnon swa weopende 
 <lb n="30"/> ⁊ swa lange cweþende þa broþra hine frefrian. ⁊ him 
             
-<!-- #######################################  folio 101r ####################################### -->
-<pb n="101r" xml:id="OD_fol101r"/>
+<!-- #######################################  folio 101v ####################################### -->
+<pb n="101v" xml:id="OD_fol101v"/>
 <lb n="1"/> woldon þæs heafes gestyran. þa andswarode he heom ⁊ cwæð. ge-
 <lb n="2"/> lyfað ge me nu þyses. þæt in næniges eowres muð nu todæge
 <lb n="3"/> ne cymþ hlaf buton þes cniht si genered ær ⁊ alysed
@@ -2396,8 +2395,8 @@
 <lb n="28"/> gebedhuse. ⁊ hine bæd þæt he sealde me þy dæge mægn to
 <lb n="29"/> fæstane. ⁊ mid his benum æt þam ælmihtigan drihtne begæte. 
 <lb n="30"/> Soðlice sona swa wit eodon in þæt gebedhus. he astrehte
-<!-- #######################################  folio 101v ####################################### -->
-<pb n="101v" xml:id="OD_fol101v"/>
+<!-- #######################################  folio 102r ####################################### -->
+<pb n="102r" xml:id="OD_fol102r"/>
 <lb n="1"/> hine sylfne in gebed mid tearum swa swa ic hine eadmodlice 
 <lb n="2"/> bæd. Þa ymb lytel fæc gefyldum þam gebede he eode ut ⁊ þa 
 <lb n="3"/> onfeng min maga swa mycel mægn ⁊ strængðe æt þære 
@@ -2428,8 +2427,8 @@
 <lb n="28"/> lufan ærest heo swænceþ hi sylfe mid tearum þonne heo ge-
 <lb n="29"/> mynað þa gyltas hire yflan dæda ⁊ ondrędeþ1. þæt heo scyle
 <lb n="30"/> for þam þrowian þa ecan cwicsusla. ⁊ þonne heo byð mid langre 
-<!-- #######################################  folio 102r ####################################### -->
-<pb n="102r" xml:id="OD_fol102r"/>
+<!-- #######################################  folio 102v ####################################### -->
+<pb n="102v" xml:id="OD_fol102v"/>
 <lb n="1"/> nearonesse þære gnornunge forht ⁊ geswænced ⁊ for-
 <lb n="2"/> næmed. þonne æt nehstan byþ acænned of bælde forgif-
 <lb n="3"/> nesse sorhleasnes. ⁊ þæt mod byþ inæled in þære lufan
@@ -2460,8 +2459,8 @@
 <lb n="28"/> wæron þa þe eallunga onfengon æt Gode þa gife þæt hi wil-
 <lb n="29"/> lað sprecan bealdlice rihtwisnesse ⁊ sceoldon geyrmde
 <lb n="30"/> ⁊ geswæncte syllan þearfendum mannum of heora agnym
-<!-- #######################################  folio 102v ####################################### -->
-<pb n="102v" xml:id="OD_fol102v"/>
+<!-- #######################################  folio 103r ####################################### -->
+<pb n="103r" xml:id="OD_fol103r"/>
 <lb n="1"/> ⁊ eac habban suðerne land ⁊ drugiende. ac þonne gyt hi 
 <lb n="2"/> beþurfon þanes landes ⁊ wætes. Forþon þe hi beoð in 
 <lb n="3"/> godum weorce gesette. in þam hi beoð myccle ⁊ weallende.
@@ -2492,8 +2491,8 @@
 <lb n="28"/> gyf he þam men ahran. eac he me sæde þæt he mihte þis wun-
 <lb n="29"/> dor wyrcan þæt in swa hwilcre stowe swa he gemette næd-
 <lb n="30"/> ran þeh þe heo wære þære mæstan reðnesse þæt he hi 
-<!-- #######################################  folio 103r ####################################### -->
-<pb n="103r" xml:id="OD_fol103r"/>
+<!-- #######################################  folio 103v ####################################### -->
+<pb n="103v" xml:id="OD_fol103v"/>
 <lb n="1"/> acwealde sona gif he hi gesegnode mid <persName>Cristes</persName> rodetacne 
 <lb n="2"/> swa þæt heo toborstenum þam innoðum swulte for þam mægne
 <lb n="3"/> þære halgan rode þonne se Godes wer þæt rodetacen awrat
@@ -2524,8 +2523,8 @@
 <lb n="28"/> he gefealh his gebede freolicor for þone seocan man ⁊ þa
 <lb n="29"/> sona eft hine gelædde to his agenre ræste full halne. swa
 <lb n="30"/> þæt he ofer þæt ne ypte ænige uneaðelice stefne ne mid 
-<!-- #######################################  folio 103v ####################################### -->
-<pb n="103v" xml:id="OD_fol103v"/>
+<!-- #######################################  folio 104r ####################################### -->
+<pb n="104r" xml:id="OD_fol104r"/>
 <lb n="1"/>  ænigum clypungum gedrefde ænig þæra seocra manna
 <lb n="2"/> ne þa ofer þæt in nihte geecte oþra manna broc. se þa 
 <lb n="3"/> fullfremedlice onfeng his agnum mode ⁊ gewitte. Of þære 
@@ -2556,8 +2555,8 @@
 <lb n="28"/> his rihtgefegum. Þa witodlice geoniendum þam ceolum se sæ 
 <lb n="29"/> eode inn ⁊ gefylde þæt scip oð þa yfmestan þeolu þæs 
 <lb n="30"/> bryrdes. swa þæt næs þæt scip betwyh þam yþum gesewen 
-<!-- #######################################  folio 104r ####################################### -->
-<pb n="104r" xml:id="OD_fol104r"/>
+<!-- #######################################  folio 104v ####################################### -->
+<pb n="104v" xml:id="OD_fol104v"/>
 <lb n="1"/> swa swiðe swa þa yða binnan þam scipe wæron gesewene. 
 <lb n="2"/> Þa wæron hi sittande in þam ylcan scipe. ⁊ na eallunga 
 <lb n="3"/> wæron swa swiðe gedrefde þy þe hi heom þone deað neah 
@@ -2588,8 +2587,8 @@
             <lb n="28"/> <persName>Sanctulum</persName> þæs arwyrðan lifes mæssepreost þæs ge-
 <lb n="29"/> mynd ic ær bufan worhte. se gewunode þæt he com to me
             <lb n="30"/> ælce gære of <placeName>Nursige</placeName> þære mægðe. ⁊ eac of þære
-<!-- #######################################  folio 104v ####################################### -->
-<pb n="104v" xml:id="OD_fol104v"/>
+<!-- #######################################  folio 105r ####################################### -->
+<pb n="105r" xml:id="OD_fol105r"/>
 <lb n="1"/> ylcan mægðe com nu for þrym nihtum sum munuc se me 
 <lb n="2"/> afærde mid gnornunge hefiges ærendes se bodode
 <lb n="3"/> me þone ylcan wer forðferedne ⁊ þeh þe ic ne mæge
@@ -2620,8 +2619,8 @@
 <lb n="28"/> naht ne gehawedon flowan1 þæs eles of þam elebergum
 <lb n="29"/> ⁊ swa þeh þone Godes wer gesawon in gefeolan mid þære
 <lb n="30"/> cyllfyllinge. þa wurdon hi swyðlice mid yrre onælde
-<!-- #######################################  folio 105r ####################################### -->
-<pb n="105r" xml:id="OD_fol105r"/>
+<!-- #######################################  folio 105v ####################################### -->
+<pb n="105v" xml:id="OD_fol105v"/>
 <lb n="1"/> ⁊ ongunnon hine onscunian mid maran fracoðlicra worda.
 <lb n="2"/> Þa þa se Godes wer þæt geseah þæt of þære eletreddan nænige 
 <lb n="3"/> gemete ænig dæl eles ut eode þa bæd he þæt him man sealde
@@ -2652,8 +2651,8 @@
 <lb n="28"/> his nehgebyrne þy æftran. dæge bocon heora hlafas. 
 <lb n="29"/> code he þær geloten ⁊ gebiged in þone ofn wenunga hwylc hlaf
 <lb n="30"/> ðær to lafe wunode æfter þam bæcestrum. Þa sæmninga funde 
-<!-- #######################################  folio 105v ####################################### -->
-<pb n="105v" xml:id="OD_fol1105v"/>
+<!-- #######################################  folio 106r ####################################### -->
+<pb n="106r" xml:id="OD_fol106r"/>
 <lb n="1"/> he þær sumne hlaf wundorlicre mycelnesse. ⁊ eac unge-
 <lb n="2"/> wunelicre hwitnesse þa nam he þone ⁊ swa þeh he nolde 
 <lb n="3"/> þone þa gyt þam cræftigum bryngan þy læs hit gelumpe þæt hit
@@ -2684,8 +2683,8 @@
 <lb n="28"/> wer la <persName>Petrus</persName> fedde þurh his þeowan manige dagas þa 
 <lb n="29"/> wyrhtan of anum hlafe se þe iu ær gereorde þurh hine 
 <lb n="30"/> sylfne of .V. hlafum .V. þusendu manna se eac swylce ge-
-<!-- #######################################  folio 106r ####################################### -->
-<pb n="106r" xml:id="OD_fol106r"/>
+<!-- #######################################  folio 106v ####################################### -->
+<pb n="106v" xml:id="OD_fol106v"/>
 <lb n="1"/> gemænigfealdað feawa cornsæda in unarimede wæstmas
 <lb n="2"/> æcra. ⁊ eac swylce se forð gelædde ær þa ylcan sæd of eorðan
 <lb n="3"/> ⁊ samod gescop ealle gescæfta of nahte. Ac þy læs þu leng 
@@ -2716,8 +2715,8 @@
 <lb n="28"/> wæs þær æt ham gewunode tomiddes heora. swilce he be-
 <lb n="29"/> swicen wære. Þa witodlice on morgenne comen þider 
             <lb n="30"/> eft þa <orgName>Langbeardiscan</orgName> men þe þone deacon sealdon 
-<!-- #######################################  folio 106v ####################################### -->
-<pb n="106v" xml:id="OD_fol106v"/>
+<!-- #######################################  folio 107r ####################################### -->
+<pb n="107r" xml:id="OD_fol107r"/>
 <lb n="1"/> <persName>Sanctulo</persName> to healdenne. ⁊ bædon þæt he heom þone agæfe. 
 <lb n="2"/> þe hi him ær befæston to healdenne. Ac se arwyrða mæsse-
 <lb n="3"/> preost heom andswarode ⁊ cwæð. þæt he wære on niht onweg 
@@ -2748,8 +2747,8 @@
 <lb n="28"/> mid his geþohte to his agnum wæpnum haligra gebeda ⁊ bæd
 <lb n="29"/> þæt hi him leafe sealdon þæt he moste him sum hwilstycce gebiddan. 
 <lb n="30"/> Mid þy him wæs þæt alyfed ⁊ he þa sona hine astrehte on 
-<!-- #######################################  folio 107r ####################################### -->
-<pb n="107r" xml:id="OD_fol107r"/>
+<!-- #######################################  folio 107v ####################################### -->
+<pb n="107v" xml:id="OD_fol107v"/>
 <lb n="1"/> þa eorðan ⁊ hine gebæd. Witodlice þa þa he lange hwile hine 
 <lb n="2"/> gebæd. se flæscbana þe to his cwealme gecoren wæs. spearn 
 <lb n="3"/> hine mid his spuran. ⁊ het hine þæt he arise ⁊ þus cwæð. aris 
@@ -2780,8 +2779,8 @@
 <lb n="28"/> agnum wite þæt he ongan swerian þæt he næfre nolde cristene 
 <lb n="29"/> man ofslean. Þa se drihtnes wer <persName>Sanctulus</persName> bebead him ⁊ 
 <lb n="30"/> þus cwæð. læt þine hand ofdune. Þa let he hi sona ofdune
-<!-- #######################################  folio 107v ####################################### -->
-<pb n="107v" xml:id="OD_fol107v"/>
+<!-- #######################################  folio 108r ####################################### -->
+<pb n="108r" xml:id="OD_fol108r"/>
 <lb n="1"/> ⁊ he cwæð eft hraðe. sænd þin sweord in his scæðe. Þa dyde 
 <lb n="2"/> he sona þæt sweord in his scæðe. Þa forþon þe þa <orgName>Langbearde</orgName> 
 <lb n="3"/> wæron ealle ongytende þone man swa mycles mægnes. 
@@ -2812,8 +2811,8 @@
 <lb n="28"/> witon þæt se ylca arwyrða wer <persName>Sanctulus</persName> ne cuðe he eac na
 <lb n="29"/> forswiðe wel gewrita wisdomes ne nyste eallunga þære 
 <lb n="30"/> æ bebodu. ac forþon þe seo soðe lufu byð þære æ gefyl-
-<!-- #######################################  folio 108r ####################################### -->
-<pb n="108r" xml:id="OD_fol108r"/>
+<!-- #######################################  folio 108v ####################################### -->
+<pb n="108v" xml:id="OD_fol108v"/>
 <lb n="1"/> ledness. he heold ealle þa æ Godes lufan ⁊ his þæs neh-
 <lb n="2"/> stan ⁊ þæt he na ne cuðe utan in ongytenesse hit wunode
 <lb n="3"/> him innon in lufan rihtlice lifgende. ⁊ se þe wen is þæt he
@@ -2844,8 +2843,8 @@
 <lb n="28"/> wunian in þysum middangearde. forþon þe næfre synfulle men
 <lb n="29"/> gecyrdon to cwiðnesse þære soðan dædbote gif nænige
 <lb n="30"/> bysene ne wæron godra manna þe heora mod to þære
-<!-- #######################################  folio 108v ####################################### -->
-<pb n="108v" xml:id="OD_fol108v"/>
+<!-- #######################################  folio 109r ####################################### -->
+<pb n="109r" xml:id="OD_fol109r "/>
 <lb n="1"/> dædbote getugon. <persName>Petrus</persName> cwæð. holinga ic seofige þæt þa godan 
 <lb n="2"/> men sin us wiðbrodene. nu ic geseo þæt hi heapmælum for-
 <lb n="3"/> weorðað same swa þa yflan. 
@@ -2876,8 +2875,8 @@
 <lb n="28"/> gewat ⁊ gedwan þæs martyres. seo æteowed wæs þæs biscopes 
 <lb n="29"/> mode. Þa aras se drihtnes wer ⁊ hine sylfne sealde sona 
 <lb n="30"/> ⁊ astrehte in heaf ⁊ in wop his gebedes ⁊ dædbote. Soðlice 
-<!-- #######################################  folio 109r ####################################### -->
-<pb n="109r" xml:id="OD_fol109r"/>
+<!-- #######################################  folio 109v ####################################### -->
+<pb n="109v" xml:id="OD_fol109v"/>
 <lb n="1"/> æfter þon þa ondrysnlican tacnu wæron fylgende in þam
 <lb n="2"/> heofone ⁊ wæron gesægene swylce speru ⁊ fyrene flana 
 <lb n="3"/> fram þam norþdæle. ⁊ þa sona æfter þon seo reðe þeod 
@@ -2908,8 +2907,8 @@
 <lb n="28"/> forswigian forðon þe ic efste to sumum oðrum. <persName>Petrus</persName> 
 <lb n="29"/> cwæð. ic wat ⁊ geþænce swiðe manige mæn þe wæron gesette 
 <lb n="30"/> binnan þam sceate þære halgan cyrican þæt hi tweogiað 
-<!-- #######################################  folio 109v ####################################### -->
-<pb n="109v" xml:id="OD_fol109v"/>
+<!-- #######################################  folio 110r ####################################### -->
+<pb n="110r" xml:id="OD_fol110r"/>
 <lb n="1"/> be þære sawle life æfter þæs lichaman deaðe. Ac ic þe bidde 
 <lb n="2"/> gif þe hwylc trymnes. ⁊ lar genihtsumian be þære wisan
 <lb n="3"/> oþþe gif hwylce bysene þe on mod geyrnan þara sawla
